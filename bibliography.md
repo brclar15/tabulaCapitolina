@@ -1,9 +1,3 @@
----
-layout: page
-title: Images
----
-
-
 # Bibliography
 
 - Allen, T. W. Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
