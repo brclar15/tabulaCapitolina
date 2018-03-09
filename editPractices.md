@@ -1,0 +1,23 @@
+---
+layout: page
+title: Images
+---
+
+
+# Editorial Practices
+
+I have created a diplomatic digital edition of the Tabula Capitolina by working with digital open-access photography. A diplomatic edition is one that seeks to represent faithfully every mark that appears on an artifact, in order to provide an authentic reading of the object. Modern corrections and rules of orthography are not imposed onto the text, thus preserving its integrity and original from. For example, I have edited the text groups found on the Tabula completely in lower case and without proper accentuation. My only additions are found in the TEI "supplied" elements. These additions are meant to make my editions readable, and are taken from printed editions of the Tabula, such as the Inscriptiones Graecae volume 14 and *Homer in Stone*.
+
+In my XML edition, I have divided the texts on the tabula into separate groups, and then structured my edition based on these divisions.
+
+Each line of text in my edition is wrapped in a TEI "ab" element, for anonymous block. These elements are meant to represent the physical layout of the stone. They allow for the text to end when the physical line on the stone ends, but then are augmented with initial and final "w" elements, for word, to show that a given words spans two lines of text. I have tagged the personal and ethnic names according to the Homer Multitext (HMT) [guidelines](http://homermultitext.github.io/hmt-docs/) and using the HMT [authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data)
+
+First, I began with the hexameter verse found in between the scenes of the *Iliupersis* and the *Aethiopis*. In its original state, it would have read "τεχνην την θεοδωρηον μαθε ταξιν Ομηρος οφρα δαεις πασης μετρον εχης σοφιας." This verse serves as a prefatory introduction to the entire Tabula with the direct imperative addressed to the reader. It explains what is on the stone, as well as the benefits for studying it.
+
+Next, I have placed the text group that gives somewhat of a table of contents or sources for this tabula. This appears in the center of the scenes of the *Iliupersis*, which would have been roughly in the center of the stone in its original form. It may be tempting to take the text citing the *Iliupersis* as a stand-alone caption for the central block of images from this epic, due to the separation caused by the ship carvings. However, I have placed both this reference as well as the problematic τρωικος with the rest of the list of titles. They form one cohesive group that provides a context within which to place the accompanying figures and texts. 
+
+Then, I have placed the text of the stele with the prose summary of *Iliad* 7 through 24. Like the table of contents, it is sighed by TEI "ab" elements that correspond to the physical lines of the stone. Here I have extensively used TEI markup, such as the "damage" element where the stone has been chipped away, the "unclear" element when one can make out certain strokes, but needs to consult a printed edition to determine the letter, and the "supplied" element where it is impossible to make out the strokes of the letter due to wear on the stone. My edition of this text was made possible largely thanks to altered photography in order to make the characters more visible.
+
+Last, I have the captions that accompany the carved figures. I divided these texts in two ways. First, they are separated by which epic the scenes on which they are commenting belong. I arranged these epics in their narrative sequence, starting with the *Iliad* and ending with the *Iliupersis*. Due to the way in which the Tabula is organized, the Iliad division is further broken into individual books. Second, there are individual anonymous blocks within each epic according to the episodic divisions within the images. These blocks can contain more than one caption, depending on the contents of the episode.
+
+As I have already established, an important aspect of a digital edition is that it is not restricted to one static view, but rather offers the reader an array of choices. My division of the texts of the Tabula Capitolina is structured due to the explanation above, but can easily be read in a number of ways thanks to my digital edition. It is an improvement upon the edition done for the [Inscriptiones Graecae](http://epigraphy.packhum.org/text/141269?&bookid=26&location=8) (IG) and other print editions because of this manipulability. While an online edition of the IG does let the reader toggle supplied characters on and off, it is not a diplomatic edition. The presence of all of the book letters for the pictorial bands of *Iliad* 13 through 24 reveal that the IG supplied more than they claim to have added.

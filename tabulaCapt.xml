@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tabula Capitolina</title>
+                <editor>Brian Clark</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Digital version of the texts of the Tabula Capitolina</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="preface">
+
+
+                <ab n="1"><gap/>ρηον μαθε ταξιν <persName n="urn:cite:hmt:pers.pers17"
+                    >ομηρος</persName> οφρα δαεις πασης μετρον εχης σοφας </ab>
+            </div>
+
+            <div n="contents">
+                <ab n="1"><title>ιλιου περσις</title></ab>
+                <ab n="2">κατα <persName n="urn:cite:hmt:pers.pers339">στησχορον</persName></ab>
+                <ab n="3">τρωικος</ab>
+                <ab n="4"><title>ιλιας</title></ab>
+                <ab n="5">κατα <persName n="urn:cite:hmt:pers.pers17">ομηρον</persName></ab>
+                <ab n="6"><title>αιθιοπις</title> κατα <persName n="urn:cite:hmt:pers.pers809"><w
+                            part="I">αρκτι</w></persName></ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers809"><w part="F">νον</w></persName> τον
+                        <rs type="ethnic" n="urn:cite:hmt:place.place120">μιλησιον</rs></ab>
+                <ab n="8"><title>ιλιας η μικρας</title>
+                    <w part="I"><unclear>λε</unclear></w></ab>
+                <ab n="9"><w part="F">γομενη</w> κατα</ab>
+                <ab n="10"><persName n="urn:cite:hmt:pers.pers810">λεσχην</persName>
+                    <rs type="ethnic" n="urn:cite:hmt:place.place432">πυρραιον</rs></ab>
+            </div>
+
+            <div n="stele">
+                <ab n="1">οι δ <rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιοι</rs> τιχος
+                    τεχαι</ab>
+                <ab n="2">ταφρον ποιουνται <w part="I">πε</w></ab>
+                <ab n="3"><w part="F">ριτας</w> ναυς <w part="I">αμφοτε<unclear>ρ</unclear></w></ab>
+                <ab n="4"><w part="F">ων</w> δ αυτων <w part="I">εξοπλις</w></ab>
+                <ab n="5"><w part="F">θεντων</w> και μαχην εν <w>τ<supplied>ω</supplied></w></ab>
+                <ab n="6">πεδιω <w><unclear>συ</unclear>ναψαντων</w> οι</ab>
+                <ab n="7"><rs type="ethnic" n="urn:cite:hmt:place.place6">τρωες</rs> εις το τιχος
+                    τους</ab>
+                <ab n="8"><rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιους</rs> κατα
+                    διωκουσιν</ab>
+                <ab n="9">και την νυκτ εκεινην επι</ab>
+                <ab n="10"><w>τα<unclear>ισ</unclear></w> ναυσιν ποιουνται
+                        <w>τη<unclear>ν</unclear></w></ab>
+                <ab n="11"><w>επα<unclear>υ</unclear>λιν</w> τοις δε των <w part="I"
+                            >αχα<unclear>ι</unclear></w></ab>
+                <ab n="12"><w part="F">ω<unclear>ν</unclear></w> αριστευσιν
+                            <w>δ<unclear>ω</unclear>κει</w>
+                    <w part="I">βο</w></ab>
+                <ab n="13"><w part="F">υλευσαμενοις</w> πιι <w part="I">απο</w></ab>
+                <ab n="14"><w part="F">τειλα<unclear>ι</unclear></w>
+                    <w><unclear>π</unclear>ρος</w>
+                    <persName n="urn:cite:hmt:pers.pers1">αχιλλεα</persName>
+                    <w part="I">α</w></ab>
+                <ab n="15"><w part="F">γαμε<supplied>μ</supplied>νων</w>
+                    <w><unclear>δ</unclear>ε</w> δρεας τε</ab>
+                <ab n="16"><w>πολλα<supplied>ς</supplied></w> διδωσι και την</ab>
+                <ab n="17"><persName n="urn:cite2:hmt:pers:pers113"><w>βρισηι<supplied>δ</supplied>α</w></persName>
+                    <w>ο<supplied>ι</supplied></w> δε <w part="I">πεμφθεν</w></ab>
+                <ab n="18"><w part="F">τες</w> προς αυτον <w part="I">οδυσσ</w></ab>
+                <ab n="19"><w part="F">ευς</w> τε και <persName n="urn:cite:hmt:pers.pers1032"
+                        >φοινιξ</persName> προς</ab>
+                <ab n="20">δε <w>τουτοι<unclear>σ</unclear></w>
+                    <w>αια<unclear>ς</unclear></w>
+                    <w part="I">απαγγ<supplied>ε</supplied></w></ab>
+                <ab n="21"><w part="F">λλουσιν</w>
+                    <persName n="urn:cite:hmt:pers.pers1">αχιλλει</persName> τους <w part="I"
+                            >λ<supplied>ο</supplied></w></ab>
+                <ab n="22"><w part="F">γους</w> τους <w>λ<supplied>ογους</supplied></w> παρ <w
+                        part="I">αγ</w></ab>
+                <ab n="23"><w part="F">αμεμνονος</w> ο δ <w>ο<supplied>υ</supplied>τε</w>
+                    <w part="I">προ</w></ab>
+                <ab n="24"><w part="F">σδεχεται</w> τας δωρεας <w part="I"
+                        >ο<supplied>υ</supplied></w></ab>
+                <ab n="25"><w part="F">τε</w>
+                    <w>σ<unclear>υ</unclear>νχωρει</w>
+                    <w part="I">διαλυσαμ</w></ab>
+                <ab n="26"><w part="F">ενος</w>
+                    <w>α<unclear>υ</unclear><supplied>τοις</supplied></w>
+                    <w><unclear>β</unclear>οηθειν</w></ab>
+                <ab n="27">οι δ
+                            <w><supplied>αρι</supplied><unclear>τ</unclear>σ<supplied>εις</supplied></w>
+                    <w><unclear>τ</unclear>αυτ</w>
+                    <w part="I">ακου</w></ab>
+                <ab n="28"><w part="F">σαντ<unclear>εσ</unclear></w>
+                    <w><damage><supplied>κατα</supplied></damage>σκοπους</w></ab>
+                <ab n="29"><w>πεμπουσ<unclear>ιν</unclear></w>
+                    <persName n="urn:cite:hmt:pers.pers118">οδυσσεα</persName>
+                    <w>κα<unclear>ι</unclear></w></ab>
+                <ab n="30"><w>διομηδη<unclear>ν</unclear></w> ουτοι δε δολω</ab>
+                <ab n="31"><supplied>ιν</supplied> συναντησαντες υφ <w part="I">εκ</w></ab>
+                <ab n="32"><w part="F"><supplied>τορ</supplied>ος</w> απεσταλμενω <w part="I"
+                        >κατα</w></ab>
+                <ab n="33"><w part="F"><unclear>σ</unclear>κοπω</w> πυθομενοι παρ <w part="I"
+                            >α<unclear>υ</unclear></w></ab>
+                <ab n="34"><w part="F">του</w>
+                    <w>τη<unclear>ν</unclear></w>
+                    <w>ταξ<unclear>ιν</unclear></w>
+                    <w><supplied>τω</supplied>ν</w> το στ<unclear>ρ</unclear>τ</ab>
+                <ab n="35"><w part="F">οπεδον</w>
+                    <w>φυλ<supplied>σσο</supplied><unclear>ν</unclear>τω<supplied>ν</supplied></w>
+                    <w part="I"><supplied>αυ</supplied></w></ab>
+                <ab n="36">τον τε
+                            <w>δι<unclear>α</unclear>φ<supplied>θειρο</supplied><unclear>υ</unclear>σιν</w>
+                    και</ab>
+                <ab n="37"><w><supplied>ρη</supplied>σον</w> το<unclear>ν</unclear>
+                    <w><supplied>θρα</supplied><unclear>κ</unclear>ων</w> μετ <w part="I">α</w></ab>
+                <ab n="38"><w><supplied>υ</supplied><unclear>τ</unclear>ου</w> δε και αλλους και <w
+                        part="I">λαβο<unclear>ν</unclear></w></ab>
+                <ab n="39"><w part="F"><supplied>τ</supplied>ες</w> τας ιππους επι τας <w part="I"
+                            ><unclear>ν</unclear><supplied>α</supplied></w></ab>
+                <ab n="40"><w part="F"><supplied>υ</supplied>ς</w>
+                    <w>ελα<unclear>υ</unclear>ν<supplied>ουσι</supplied>ν</w> ημερας δε</ab>
+                <ab n="41"><w><supplied>γεν</supplied>ομε<supplied>νης</supplied></w>
+                    <w><supplied>μαχ</supplied><unclear>η</unclear>ν</w>
+                    <w part="I">συνα</w></ab>
+                <ab n="42"><w part="F"><supplied>πτ</supplied>ου<unclear>σ</unclear>ι</w>
+                    <supplied>εξ ης των</supplied>
+                    <w part="I"><supplied>αρ</supplied>ιστε</w></ab>
+                <ab n="43"><w part="F"><unclear>ω</unclear>ν</w>
+                    <w>τ<unclear>ρ</unclear>ω<unclear>θ</unclear><supplied>εντε</supplied><unclear>ς</unclear></w>
+                    <w part="I">α<unclear>γ</unclear>αμε<unclear>μ</unclear></w></ab>
+                <ab n="44"><w part="F">νων</w>
+                    <w>δ<unclear>ι</unclear>ομη<supplied>δης</supplied></w>
+                    <w><unclear>ο</unclear><supplied>δ</supplied><unclear>υ</unclear>σσευς</w>
+                    <w part="I">μ</w></ab>
+                <ab n="45"><w part="F">αχα<unclear>ων</unclear></w>
+                    <w>ε<unclear>υ</unclear>ρ<supplied>υ</supplied>π<supplied>υ</supplied>λ<unclear>ο</unclear><supplied>ς</supplied></w>
+                    επι <w part="I">τα</w></ab>
+                <ab n="46"><w part="F">ς</w>
+                    <supplied>ναυς</supplied>
+                    <w><supplied>α</supplied>να<unclear>χ</unclear>ω<supplied>ρ</supplied>ου<unclear>σι</unclear>ν</w>
+                    <w part="I"><unclear>π</unclear>ατρ<unclear>ο</unclear></w></ab>
+                <ab n="47"><w part="F">κλος</w>
+                    <w>δ<unclear>ε</unclear></w>
+                    <w>πεμ<supplied>φθ</supplied>εις</w>
+                    <supplied>παρ</supplied>
+                    <w part="I">αχ</w></ab>
+                <ab n="48"><w part="F">ιλλεως</w>
+                    <w>πυνθαν<unclear>ε</unclear><supplied>ται</supplied></w>
+                    <w part="I">νες</w></ab>
+                <ab n="49"><w part="F">τορος</w>
+                    <w><unclear>τ</unclear>α</w>
+                    <w>περ<unclear>ι</unclear></w>
+                    <w>τ<unclear>ην</unclear></w>
+                    <w><supplied>μαχη</supplied><unclear>ν</unclear></w></ab>
+                <ab n="50"><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName>
+                    <w>δ<supplied>ε</supplied></w>
+                    <w><supplied>ρ</supplied><unclear>η</unclear>ξας</w>
+                    <w>τα<supplied>ς</supplied></w>
+                    <supplied>καθ</supplied>
+                    <w part="I"><supplied>αυ</supplied></w></ab>
+                <ab n="51">τον πυλας <supplied>εις το</supplied>
+                    <w>τ<supplied>ιχος</supplied></w>
+                    <w part="I">εις</w></ab>
+                <ab n="52">πιπτι των <w><supplied>ε</supplied>λ<supplied>λ</supplied>νων</w>
+                    και</ab>
+                <ab n="53">μαχην σ<supplied>υν</supplied>απτε<unclear>ι</unclear>
+                    <supplied>προς των</supplied></ab>
+                <ab n="54">νηων <w>τ<supplied>ης</supplied></w> δ ομαλης <w part="I"
+                            >γ<supplied>ινο</supplied></w></ab>
+                <ab n="55"><w part="F">μενης</w>
+                    <w>αχιλλ<unclear>ε</unclear>υς</w> παρα του</ab>
+                <ab n="56">πατροκου τα περι <w>τ<unclear>η</unclear>ν</w>
+                    <w part="I">μ</w></ab>
+                <ab n="57"><w part="F"><unclear>α</unclear>χην</w> ακουσας και <w part="I"
+                    >δεο</w></ab>
+                <ab n="58"><w part="F"><supplied>μεν</supplied>ου</w>
+                    <w>βοη<supplied>θ</supplied>ειν</w> αυτον</ab>
+                <ab n="59"><supplied>η ε</supplied>
+                    <w><supplied>π</supplied><unclear>ε</unclear>μψαι</w>
+                    <w>τοι<unclear>ς</unclear></w>
+                    <w part="I">ε<supplied>λλη</supplied></w></ab>
+                <ab n="60"><w part="F"><supplied>σιν</supplied></w>
+                    <w><supplied>ι</supplied>δων</w> την του <w part="I"
+                            ><unclear>π</unclear><supplied>ρωτε</supplied></w></ab>
+                <ab n="61"><w part="F"><supplied>σιλ</supplied>αου</w>
+                    <w><unclear>ν</unclear>αυν</w>
+                    <w>καιομεν<supplied>ην</supplied></w>
+                    <w part="I"><supplied>πεμ</supplied></w></ab>
+                <ab n="62"><w part="F">πε<unclear>ι</unclear></w> μετα των
+                            <w>μυρμ<supplied>ιδονων</supplied></w></ab>
+                <ab n="63">τον <persName n="urn:cite:hmt:pers.pers158">πατροκλον</persName>
+                        του<unclear>ς</unclear>
+                    <w part="I"><supplied>ιππ</supplied></w></ab>
+                <ab n="64"><w part="F">ους</w> αυτωι δους και <w>το<unclear>ις</unclear></w>
+                    <w part="I"><supplied>ο</supplied></w></ab>
+                <ab n="65">πλοις τοις αυτου <w part="I">καθοπλ</w></ab>
+                <ab n="66"><w part="F">ιξας</w> ο ιδοντες οι τρωες <w part="I"
+                        ><unclear>ι</unclear></w></ab>
+                <ab n="67"><w part="F">θυς</w> απαντες <w>φευγουσι<supplied>ν</supplied></w></ab>
+                <ab n="68">εν δε τηι <w>τροπη<unclear>ι</unclear></w> ταυτηι <w part="I"
+                            >π<supplied>ατ</supplied></w></ab>
+                <ab n="68"><w part="F">ροκλος</w> αλλους τε <w part="I"
+                        >πολ<supplied>λο</supplied></w></ab>
+                <ab n="70"><w part="F">υς</w> αποντεινι και <w part="I"
+                        >σαρπηδ<supplied>ο</supplied></w></ab>
+                <ab n="71"><w part="F">να</w> τον διος τους δε <w part="I"
+                            >λοιπ<supplied>ου</supplied></w></ab>
+                <ab n="72"><w part="F">ς</w>
+                    <w><unclear>ει</unclear>ς</w> το <w>τ<unclear>ι</unclear>χος</w>
+                    <w><supplied>κατ</supplied><unclear>α</unclear>διωκε<unclear>ι</unclear></w></ab>
+                <ab n="73"><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> δ αυτον
+                            <w><supplied>παταξ</supplied>ας</w>
+                    <w part="I">α</w></ab>
+                <ab n="74">ποκτε<supplied>ινει και των οπλων <w part="I">εγ</w></supplied></ab>
+                <ab n="75"><w part="F">κρατη<supplied>ς</supplied></w>
+                    <w><supplied>γ</supplied>ει<supplied>νεται</supplied></w>
+                    <supplied>μαχης</supplied>
+                    <w part="I"><supplied>δ</supplied></w></ab>
+                <ab n="76"><w part="F"><unclear>ε</unclear></w>
+                    <supplied>περι</supplied> του νεκρου <w part="I">γενομε</w></ab>
+                <ab n="77"><w part="F">νης</w>
+                    <w>αν<supplied>τιλοχος</supplied></w>
+                    <w part="I"><supplied>απανγε</supplied>λ</w></ab>
+                <ab n="78"><w part="F">λι</w>
+                    <w>αχιλ<supplied>λει</supplied></w>
+                    <unclear/></ab>
+                <ab n="79"><w part="F"><unclear>ε</unclear>ως</w>
+                    <supplied>η δε θετις</supplied> ερχεται <w part="I"
+                    >π<unclear>ρ</unclear></w></ab>
+                <ab n="80"><w part="F">ος</w>
+                    <w>ηφα<unclear>ι</unclear><supplied>στον</supplied></w>
+                    <w><supplied>αιτ</supplied>ησουσα</w></ab>
+                <ab n="81"><w>παντε<unclear>υχ</unclear><supplied>ιαν</supplied></w> ο δ <w>αυ<unclear>τη</unclear></w>
+                    <w part="I"><supplied>προ</supplied></w></ab>
+                <ab n="82"><w part="F"><supplied>θυ</supplied><unclear>μ</unclear>ως</w>
+                    <w>ποι<supplied>ει</supplied></w>
+                    <supplied>οι</supplied>
+                    <unclear>δ</unclear>
+                    <supplied><rs type="ethnic" n="urn:cite:hmt:place.place6">αχαιοι</rs> το</supplied></ab>
+                <ab n="83">σωμα του
+                            <w>π<supplied>ατρό</supplied><unclear>κλ</unclear><supplied>ου</supplied></w>
+                    <supplied>επι</supplied>
+                    <w part="I"><supplied>τα</supplied></w></ab>
+                <ab n="84"><w part="F"><supplied>ς</supplied></w>
+                    <w><supplied>να</supplied>υς</w>
+                    <w><supplied>διακομιζ</supplied>ουσιν</w> τ<unclear>ω</unclear>ν</ab>
+                <ab n="85"><supplied>δ οπλων</supplied>
+                    <w><unclear>υ</unclear><supplied>πο</supplied></w>
+                    <w><supplied>τη</supplied>ς</w> της <w part="I"
+                    >θετι<unclear>δ</unclear></w></ab>
+                <ab n="86"><w part="F"><supplied>ος</supplied></w>
+                    <w>ενεχ<unclear>θ</unclear><supplied>εντων</supplied></w>
+                    <supplied>την</supplied>
+                    <w part="I"><supplied>βρι</supplied></w></ab>
+                <ab n="87"><w part="F"><unclear>σηί</unclear>δα</w>
+                    <w>αγα<unclear>μ</unclear><supplied>εμνων</supplied></w> <persName n="urn:cite:hmt:pers.pers1">αχιλλει</persName></ab>
+                <ab n="88"><w><supplied>δι</supplied>δωσιν</w>
+                    <w>αχ<supplied>ιλλευς</supplied></w>
+                    <w><supplied>δ</supplied><unclear>ε</unclear></w>
+                    <w>εἰ<unclear>ς</unclear></w></ab>
+                <ab n="89">τὸν <w>σκα<unclear>μ</unclear><supplied>ανδρον</supplied></w>
+                    <w part="I"><supplied>κατ</supplied>αδ<unclear>ι</unclear>ώ</w></ab>
+                <ab n="90"><w part="F">ξας</w>
+                    <w>αστερο<unclear>π</unclear><supplied>αι</supplied><unclear>ον</unclear></w>
+                    <w part="I"><unclear>απο</unclear>κτ</w></ab>
+                <ab n="91"><w><supplied>ειν</supplied>ει</w> αχιλλευς δε <unclear>τον
+                    εν</unclear></ab>
+                <ab n="92"><supplied>τωι</supplied>
+                    <w><supplied>ποτ</supplied>αμῶι</w>
+                    <w part="I">δια<unclear>φυγ</unclear>ὼ</w></ab>
+                <ab n="93"><w part="F"><supplied>ν</supplied></w>
+                    <supplied>κινδυνον</supplied> εκτορα <w part="I">μονομ</w></ab>
+                <ab n="94"><w part="F"><supplied>αχων</supplied></w>
+                    <w><supplied>απο</supplied>κτινει</w> και τα <w>οπλ<unclear>α</unclear></w></ab>
+                <ab n="95"><w><supplied>αναλαμ</supplied><unclear>β</unclear>ανει</w> και τον <w
+                        part="I">νεκρ</w></ab>
+                <ab n="96"><w part="F"><supplied>ον</supplied></w>
+                    <w><supplied>εκ</supplied>δησαμενος</w> εκ του <w part="I">δ</w></ab>
+                <ab n="97"><w part="F"><supplied>ιφρο</supplied><unclear>υ</unclear></w> δια του
+                    πεδιου ελκει</ab>
+                <ab n="98"><supplied>επι τας</supplied>
+                    <w><supplied>ν</supplied>αυς</w> και τον <w part="I"
+                    >π<unclear>ατ</unclear></w></ab>
+                <ab n="99"><w part="F">ροκλον</w>
+                    <w>θ<unclear>α</unclear>ψας</w>
+                    <w>τιθ<unclear>ησιν</unclear></w></ab>
+                <ab n="100"><supplied>επ</supplied> αυτ̣ωι <w><supplied>α</supplied>γωνα</w> των <w
+                        part="I">αρισ</w></ab>
+                <ab n="101"><w part="F">τεω<unclear>ν</unclear></w> ο δε
+                        <w>π<unclear>ρι</unclear>αμος</w> επι <supplied>τας</supplied></ab>
+                <ab n="102"><supplied>ναυς</supplied>
+                    <w><supplied>παραγ</supplied>ενομενος</w>
+                    <w part="I"><unclear>εκ</unclear></w></ab>
+                <ab n="103"><w part="F">τορα</w> λυτρουται παρ <w part="I">αχιλ</w></ab>
+                <ab n="104"><w part="F"><unclear>λε</unclear>ως</w> επανελθοντος δε</ab>
+                <ab n="105"><unclear>του</unclear>
+                    <persName n="urn:cite:hmt:pers.pers145">πριαμου</persName>
+                    <w>παλ<unclear>ιν</unclear></w>
+                    <supplied>εις</supplied></ab>
+                <ab n="106">την πολιν <w>θαπτ<unclear>ου</unclear><supplied>σιν</supplied></w></ab>
+                <ab n="107"><unclear>οι</unclear> τρωες και τον <w part="I"
+                            ><supplied>ταφο</supplied></w></ab>
+                <ab n="108"><w part="F">ν</w> αυτου
+                            <w>κατασκ<supplied>ευα</supplied><unclear>ζο</unclear>υσι</w></ab>
+
+            </div>
+            <div n="Iliad">
+                <div n="iliad_1">
+                    <ab n="1">ιερον <persName n="urn:cite:hmt:pers.pers40">απόλλωνος</persName>
+                        ζμινθεως <persName n="urn:cite:hmt:pers.pers44">χρυσης</persName></ab>
+                    <ab n="2">λοιμος</ab>
+                    <ab n="3"><persName n="urn:cite:hmt:pers.pers74">καλχας</persName>
+                        <persName n="urn:cite:hmt:pers.pers22"
+                            ><w>αγαμεμν<unclear>ω</unclear>ν</w></persName>
+                        <persName n="urn:cite:hmt:pers.pers117">νεστωρ</persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                        <persName n="urn:cite:hmt:pers.pers67">αθηνα</persName>
+                    </ab>
+                    <ab n="4"><persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName>
+                        <w><unclear>τη</unclear>ν</w>
+                        <w><unclear>εκ</unclear>ατoμβην</w> τω θεω αγων <persName
+                            n="urn:cite:hmt:pers.pers40">απολλωνι</persName>
+                        <persName n="urn:cite:hmt:pers.pers44">χρυσηις</persName></ab>
+                    <ab n="5"><persName n="urn:cite:hmt:pers.pers19">θετις</persName>
+                        <persName n="urn:cite:hmt:pers.pers8"><unclear>ζευ</unclear></persName></ab>
+                </div>
+                <div n="iliad_13">
+                    <ab><persName n="urn:cite:hmt:pers.pers503">ασιος</persName></ab>
+                </div>
+                <div n="iliad_14">
+                    <ab><persName n="urn:cite:hmt:pers.pers510">αρχελοχος</persName>
+                        <persName n="urn:cite:hmt:pers.pers281">αιας λοκρoς</persName>
+                        <persName n="urn:cite:hmt:pers.pers127">αιας</persName>
+                        <persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName>
+                        <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName>
+                        <persName n="urn:cite:hmt:pers.pers40">απολλων</persName></ab>
+                </div>
+                <div n="iliad_15">
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:15">Ο</rs> αινηας
+                        κλιτος <w>παρ<unclear>ις</unclear></w> ελεος εκτωρ Καλητωρ επι ναυσι
+                        μαχη</ab>
+                </div>
+                <div n="iliad_16">
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:16">Π</rs> πατροκ
+                                <w>φοι<unclear>νιξ</unclear></w>
+                        <w><unclear>δι</unclear>ομηδης</w> αχιλλευς
+                            <w>πατροκλ<unclear>ος</unclear></w></ab>
+                </div>
+                <div n="iliad_17">
+                    <ab/>
+                </div>
+                <div n="iliad_18">
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:18">Σ</rs>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                        <persName n="urn:cite:hmt:pers.pers158">πατροκλος</persName>
+                        <persName n="urn:cite:hmt:pers.pers19"
+                            ><w><unclear>θ</unclear>ετις</w></persName> οπλοποια <persName
+                            n="urn:cite:hmt:pers.pers192"
+                            ><w><unclear>ηφ</unclear>αιστος</w></persName></ab>
+                </div>
+                <div n="iliad_19">
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:19">Τ</rs>
+                        <persName n="urn:cite:hmt:pers.pers19"
+                            ><w>θε<unclear>τις</unclear></w></persName>
+                        <persName n="urn:cite:hmt:pers.pers1"
+                            ><w><unclear>αχιλλ</unclear>ευς</w></persName>
+                        <persName n="urn:cite:hmt:pers.pers405">φοινιξ</persName>
+                        <persName n="urn:cite:hmt:pers.pers1"
+                            ><w><unclear>α</unclear>χιλλευς</w></persName></ab>
+                    <ab>ασπις</ab>
+                </div>
+                <div n="iliad_20">
+                    <ab><persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
+                </div>
+                <div n="iliad_21">
+                    <ab><persName n="urn:cite:hmt:pers.pers111"
+                            ><w>σκαμανδρ<unclear>ος</unclear></w></persName>
+                        <persName n="urn:cite:hmt:pers.pers1"
+                            ><w>αχ<unclear>ιλλ</unclear>ευς</w></persName>
+                        <persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName> φρυγες</ab>
+                </div>
+                <div n="iliad_22">
+                    <ab><persName n="urn:cite:hmt:pers.pers1"
+                            ><w>αχιλλευ<unclear>ς</unclear></w></persName>
+                        <persName n="urn:cite:hmt:pers.pers172"
+                            ><w>εκτω<unclear>ρ</unclear></w></persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                        <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
+                </div>
+                <div n="iliad_23">
+                    <ab><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> καυσις <choice>
+                            <abbr><persName n="urn:cite:hmt:pers.pers158">πατροκλο</persName></abbr>
+                            <expan><persName n="urn:cite:hmt:pers.pers158"
+                                >πατροκλου</persName></expan>
+                        </choice>
+                        <w>επιτα<unclear>φι</unclear>ος</w>
+                        <choice>
+                            <abbr>αγ</abbr>
+                            <expan>αγων</expan>
+                        </choice></ab>
+                </div>
+                <div n="iliad_24">
+                    <ab><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> και λυτρα <persName
+                            n="urn:cite:hmt:pers.pers172"
+                            ><w>εκτ<unclear>ορο</unclear>ς</w></persName>
+                        <persName n="urn:cite:hmt:pers.pers104">ερμης</persName>
+                        <persName n="urn:cite:hmt:pers.pers145">πριαμος</persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
+                </div>
+
+            </div>
+            <div n="aethiopis">
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers331"><w><damage/>εσιλεια</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                </ab>
+                <ab n="2"><persName n="urn:cite:hmt:pers.pers1"
+                        ><w>αχι<unclear>λλε</unclear>υς</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers310">θερστιης</persName>
+                </ab>
+                <ab n="3"><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                    <persName n="urn:cite:hmt:pers.pers177">μεμνων</persName>
+                    <persName n="urn:cite:hmt:pers.pers712"><w>αν<unclear/>λοχος</w></persName></ab>
+                <ab n="4"><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
+                    <persName n="urn:cite:hmt:pers.pers127">αιας</persName></ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers118"
+                        ><w>οδ<unclear>υ</unclear>σσευς</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers1"
+                        ><w>αχιλλεω<unclear>ς</unclear></w></persName>
+                    <w><unclear>σωμ</unclear>α</w>
+                </ab>
+                <ab n="6"><unclear/>ουσα <persName n="urn:cite:hmt:pers.pers1"
+                            >αχι<unclear>λλ</unclear>εο</persName>
+                    <persName n="urn:cite:hmt:pers.pers19">θε</persName></ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers127">αιας</persName> μ<unclear/>ης</ab>
+            </div>
+            <div n="iliasparva">
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers249">ευρυπυλος</persName>
+                    <persName n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName>
+                </ab>
+                <ab n="2"><persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName>
+                    <persName n="urn:cite:hmt:pers.pers215">διομηδης</persName> παλ/λ/α</ab>
+                <ab n="3">δουρηος ιππος</ab>
+                <ab n="4"><rs type="ethnic" n="urn:cite:hmt:place.place6">τρωαδες</rs> και φρυγες
+                    αναγουσι τον ιππον</ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers145">πριαμος</persName>
+                    <persName n="urn:cite:hmt:pers.pers812">σινων</persName></ab>
+                <ab n="6"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName> σκαια
+                    πυλη</ab>
+            </div>
+            <div n="iliupersis">
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers172"
+                        ><w>α<unclear>ια</unclear></w></persName> δουρηος ιππος</ab>
+                <ab n="2"><w>ιερο<damage/></w>
+                    <persName n="urn:cite:hmt:pers.pers194"
+                        ><w>αφροδιτη<unclear>ς</unclear></w></persName></ab>
+                <ab n="3"><persName n="urn:cite:hmt:pers.pers142">αινηας</persName></ab>
+                <ab n="4"><abbr><persName n="urn:cite:hmt:pers.pers797">δη</persName></abbr>
+                    <persName n="urn:cite:hmt:pers.pers688"
+                        ><w>α<unclear>ιθ</unclear>ρα</w></persName></ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers273"
+                        ><w>α<unclear>γχ</unclear>εισης</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers937">ασκανιος</persName>
+                    <persName n="urn:cite:hmt:pers.pers142">αινηας</persName>
+                    <persName n="urn:cite:hmt:pers.pers104">ερμης</persName></ab>
+                <ab n="6"><persName n="urn:cite:hmt:pers.pers172">εκτορος</persName> ταφος</ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers159">ταλθυβιος</persName> και <rs
+                        type="ethnic" n="urn:cite:hmt:place.place6">τρωαδες</rs></ab>
+                <ab n="8"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName>
+                    <persName n="urn:cite:hmt:pers.pers171">ανδρομαχη</persName>
+                    <persName n="urn:cite:hmt:pers.pers507"
+                        ><w>ελε<unclear>νος</unclear></w></persName></ab>
+                <ab n="9"><persName n="urn:cite:hmt:pers.pers535">εκαβη</persName>
+                    <persName n="urn:cite:hmt:pers.pers799">πολυξενη</persName>
+                    <persName n="urn:cite:hmt:pers.pers171">ανδρομαχη</persName>
+                    <persName n="urn:cite:hmt:pers.pers507">ελενος</persName>
+                    <persName n="urn:cite:hmt:pers.pers118"
+                        ><w>οδυσσε<unclear>υ</unclear>ς</w></persName></ab>
+                <ab n="10">ναυσταθμον <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                    >αχαιων</rs></ab>
+                <ab n="11"><persName n="urn:cite:hmt:pers.pers1">αχιλλεως</persName> σημα <persName
+                        n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName>
+                    <persName n="urn:cite:hmt:pers.pers799"
+                        ><w>πο<damage>λυξε</damage>νη</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName>
+                    <persName n="urn:cite:hmt:pers.pers74">καλχας</persName></ab>
+                <ab n="12"><persName n="urn:cite:hmt:pers.pers142">αινηας
+                            <w>συ<unclear>ν</unclear></w></persName> τοις
+                            <w><unclear>ι</unclear>δ<unclear>ι</unclear>ο<unclear>ι</unclear>ς</w>
+                    <w>απα<unclear>ιρων</unclear></w> εις την
+                    <w>εσπερ<unclear>ιαν</unclear></w></ab>
+                <ab n="13">αποπλους <persName n="urn:cite:hmt:pers.pers142">αινηου</persName></ab>
+                <ab n="14"><persName n="urn:cite:hmt:pers.pers273"
+                        ><w>αγχ<unclear>ι</unclear>σης</w></persName> και τα
+                        <w><unclear>ι</unclear>ερα</w></ab>
+                <ab n="15"><persName><persName n="urn:cite:hmt:pers.pers938"
+                                    ><w>μ<unclear>ι</unclear>σηνος</w></persName></persName></ab>
+                <ab n="16"><placeName n="urn:cite:hmt:place.place424"
+                                ><w><unclear>σ</unclear>ειγαιο<unclear>ν</unclear></w></placeName></ab>
+            </div>
+        </body>
+    </text>
+</TEI>
