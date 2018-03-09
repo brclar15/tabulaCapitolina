@@ -1,8 +1,3 @@
----
-layout: page
-title: Images
----
-
 # Acknowledgements
 
 This project comes out of and is complimentary to my undergraduate thesis, where I looked at retellings of the Epic Cycle, including those found on the Tabula Capitolina. For the continued guidance, support, and inspiration, I am deeply indebted to Professor Neel Smith. He not only nurtured my love of mythology and the *Iliad*, but also planted in me a passion for the Greek language. 
