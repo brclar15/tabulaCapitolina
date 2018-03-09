@@ -1,3 +1,6 @@
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+
+
 # Diplomatic Digital Edition of the Tabula Capitolina
 
 - [Digital Edition](file:///Users/brian/Desktop/updates_to_xslt/tabCapEdition.html)
@@ -9,3 +12,8 @@
   - an explanation of my editing practices
 - [Photography](images.md)
   - a link back to the photography of the Tabula, for the viewer's ease
+
+
+
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
