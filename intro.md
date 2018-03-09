@@ -1,4 +1,4 @@
-### [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### [Home](https://brclar15.github.io/tabulaCapitolina/)
 
 # Intro to Tabula Capitolina
 
@@ -10,3 +10,6 @@ The Tabula Capitolina (seen here in [stone](http://shot.holycross.edu/eikon/tabu
 I have focused exclusively on this tabula for a variety of reasons. First, it is one of the best preserved out of the group of these tabulae. The majority of the others are highly fragmentary and, as a result, only offer isolated retellings of one scene. This makes the Tabula Capitolina unique for its complexity, as it shows intricate retellings made up of several different episodes. The extant part of the tabula contains content from four different epics, and mixes both visual and textual retellings. The content from *Iliad* 13 through 24 are present both in the textual summary as well as the carved figures. This double retelling combined in one document provides the opportunity to look at retellings across different media. Secondly, having open access photography of this tabula made it the natural choice around which to base this study. I have used the photography to create my own diplomatic digital edition of this tabula, and will discuss this decision further in a later section. 
 
 The scholarship on the Tabulae Iliacae has been divided on the subject of their importance. Previously, they were thought to be low class carvings for adult education due to some inconsistencies between the stone and the Iliad. However, more recent scholars, such as Michael Squire and David Petrain have shown that these highly complex and allusive documents are greatly worthy of interest. They were meant to be displayed and used by a highly educated class of people in order to display their knowledge. The wealth of images and text that they provide, particularly the Tabula Capitolina, make them excellent sources for the comparison of retellings. 
+
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
