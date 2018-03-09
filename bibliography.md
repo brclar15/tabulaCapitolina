@@ -1,3 +1,6 @@
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+
 # Bibliography
 
 - Allen, T. W. Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
@@ -20,3 +23,8 @@
 - Walter-Karydi, Elena. Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009)
 - West, M. L. Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - West, M. L. The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
+
+
+
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
