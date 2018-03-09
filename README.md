@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Tabula Capitolina
 
-You can use the [editor on GitHub](https://github.com/brclar15/tabulaCapitolina/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## By Brian Clark
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Tabula Capitolina Overview](intro.md)
 
-### Markdown
+- [A Collection of Photography of the Tabula Capitolina](images.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
 
-```markdown
-Syntax highlighted code block
+- [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+---------
 
-1. Numbered
-2. List
+## Aim of the project
 
-**Bold** and _Italic_ and `Code` text
+The goal of this project is to analyze the way an ancient audience would have retold the *Iliad*, or broken it down into smaller episodes. Primarily, the focus of this work is on the [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg), and the ways in which it retells the *Iliad*. Here is a [line drawing](http://www.mediterranees.net/art_antique/oeuvres/iliaca/images/capitolina1.gif) done by Otto Jahn that has been invaluable to my study of this object. There are two such retellings found on the stone: one visual in carved figures, and one textual in a prose summary. Since the stone has been partially damaged (see [Introduction](intro.md)), I was unable to analyze the way that the entire *Iliad* is retold, but rather only the sections that survive on the stone. I have compared the two different retellings on the Tabula Capitolina to the text of the [*Iliad*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0134).  
 
-[Link](url) and ![Image](src)
-```
+In order to study this document, I have created a [diplomatic digital edition](digitalEditing.md) of the text found on the stone. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I owe a great deal of [thanks](thanks.md) to several people for help with various aspects of this project.
 
-### Jekyll Themes
+This project is an ongoing work that will be presented as a DH project to complete my ["Digital Tools for Premodern Studies"](http://ase.tufts.edu/classics/graduate/digitalTools.htm) Masters degree at Tufts University. Here are some ideas of how I plan to [expand this project](continueWork.md). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brclar15/tabulaCapitolina/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is a [preliminary bibliography](bibliography.md)
