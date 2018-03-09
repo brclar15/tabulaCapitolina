@@ -1,3 +1,8 @@
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+
+
+
 # Editorial Practices
 
 I have created a diplomatic digital edition of the Tabula Capitolina by working with digital open-access photography. A diplomatic edition is one that seeks to represent faithfully every mark that appears on an artifact, in order to provide an authentic reading of the object. Modern corrections and rules of orthography are not imposed onto the text, thus preserving its integrity and original from. For example, I have edited the text groups found on the Tabula completely in lower case and without proper accentuation. My only additions are found in the TEI "supplied" elements. These additions are meant to make my editions readable, and are taken from printed editions of the Tabula, such as the Inscriptiones Graecae volume 14 and *Homer in Stone*.
@@ -15,3 +20,9 @@ Then, I have placed the text of the stele with the prose summary of *Iliad* 7 th
 Last, I have the captions that accompany the carved figures. I divided these texts in two ways. First, they are separated by which epic the scenes on which they are commenting belong. I arranged these epics in their narrative sequence, starting with the *Iliad* and ending with the *Iliupersis*. Due to the way in which the Tabula is organized, the Iliad division is further broken into individual books. Second, there are individual anonymous blocks within each epic according to the episodic divisions within the images. These blocks can contain more than one caption, depending on the contents of the episode.
 
 As I have already established, an important aspect of a digital edition is that it is not restricted to one static view, but rather offers the reader an array of choices. My division of the texts of the Tabula Capitolina is structured due to the explanation above, but can easily be read in a number of ways thanks to my digital edition. It is an improvement upon the edition done for the [Inscriptiones Graecae](http://epigraphy.packhum.org/text/141269?&bookid=26&location=8) (IG) and other print editions because of this manipulability. While an online edition of the IG does let the reader toggle supplied characters on and off, it is not a diplomatic edition. The presence of all of the book letters for the pictorial bands of *Iliad* 13 through 24 reveal that the IG supplied more than they claim to have added.
+
+
+
+
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
