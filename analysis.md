@@ -1,8 +1,3 @@
----
-layout: page
-title: Images
----
-
 # Analysis of Retellings of the Tabula Capitolina compared to the *Iliad*
 
 Here I walk through the retellings for each book on the stone and compare them to the *Iliad*. Keep in mind that, due to the damage that the stone has sustained, the textual retelling covers books 7 through 24, and the visual retelling covers books 1, and 13 through 24. I have placed the general trends of my analysis under a link on the previous page. 
