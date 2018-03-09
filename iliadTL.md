@@ -1,3 +1,6 @@
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+
+
 # Timeline of the Events in the *Iliad*
 
 | Book Number  | Sequence  | Title  | Description  |   |
@@ -39,3 +42,7 @@
 | **23**  | 35  | Mourning Patroclus  | Achilles mourns Patroclus, after he appears in a dream  |   |
 | **23**  | 36  | Funeral Games  | The Greeks hold funeral games for Patroclus  |   |
 | **24**  | 37  | Ransoming Hector  | With the help of Hermes, Priam ransoms Hector  |   |
+
+
+
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
