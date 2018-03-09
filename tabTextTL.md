@@ -1,9 +1,3 @@
----
-layout: page
-title: Images
----
-
-
 # Tabula Text Timeline
 
 
