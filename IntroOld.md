@@ -1,9 +1,3 @@
----
-layout: page
-title: Images
----
-
-
 # Tabula Capitolina
 
 ## By Brian Clark
