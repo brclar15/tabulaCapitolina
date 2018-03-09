@@ -1,9 +1,3 @@
----
-layout: page
-title: About
----
-
-
 # Analysis of the Retellings of the Tabula Capitolina
 
 ## A comparison between the carved images, the prose summary, and the *Iliad*
