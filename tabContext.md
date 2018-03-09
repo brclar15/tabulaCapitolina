@@ -1,8 +1,3 @@
----
-layout: page
-title: Images
----
-
 # The Tabula Capitolina in Context
 
 
