@@ -1,10 +1,3 @@
----
-layout: page
-title: Images
----
-
-
-
 # Open Access Photography of Tabula Capitolina
 
 
