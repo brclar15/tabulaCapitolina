@@ -1,6 +1,6 @@
-# Intro to Tabula Capitolina
+### [Home](https://brclar15.github.io/tabulaCapitolina/)
 
-## By Brian Clark
+# Intro to Tabula Capitolina
 
 
 The Tabula Capitolina is one of [twenty-two stone tablets](https://github.com/brclar15/tabulaCapitolina/blob/master/tabulae.csv) that depict scenes from the Epic Cycle known as the Tabulae Iliacae. While these vast majority of these artifacts deal with the Epic Cycle, or events dealing with the Trojan War, some stones instead depicts scenes of Heracles or Alexander the Great. However, due to their similar design, material, and supposed function, they are still considered part of the Tabulae Iliacae group (Petrain 2). When compared to other surviving monuments, the pictorial representations found on the various tabulae seem to resemble other artifacts from the Augustan Age. The Tabula Capitolina's repeated focus on Aeneas, especially as he flees Troy during the *Iliupersis*, helps place this tabula, and therefore the others, during this period. The best solution would be to date these objects to the first century CE, at the end of or shortly after Augustus' rule (West3).
