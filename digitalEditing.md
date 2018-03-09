@@ -1,9 +1,3 @@
----
-layout: page
-title: Images
----
-
-
 # Diplomatic Digital Edition of the Tabula Capitolina
 
 - [Digital Edition](file:///Users/brian/Desktop/updates_to_xslt/tabCapEdition.html)
