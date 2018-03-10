@@ -6,6 +6,8 @@
 
 - [A Collection of Photography of the Tabula Capitolina](images.md)
 
+- [Diplomatic Digital Edition](digitalEditing.md)
+
 - [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
 
 - [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
