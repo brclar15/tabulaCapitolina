@@ -8,8 +8,7 @@
 - expand the Tabulae CSV file with more detailed information??
 - undo unnecessary link [here](https://brclar15.github.io/tabulaCapitolina/analysisPage.html)
   - **OR** Do general trends thing
-- see if I can get the imagecitation2 tool to work and put them above
-- link editorial practices from the home page start section
+- put in ICT2 links everywhere
 
 
 ### Content 
@@ -18,4 +17,3 @@
 - add rough line ranges for Iliad passages
 - make sure im solid on the Timelines 
   - compare that other guy's?
-- Go over editorial practices more
