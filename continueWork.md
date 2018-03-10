@@ -5,6 +5,13 @@
 ### Presentation
 - figure out how to link edition .html file directly
 - organize website with home links 
+- create page with links to all of the linked images (jahn's and plates)
+- expand the Tabulae CSV file with more detailed information??
+- undo unnecessary link [here](https://brclar15.github.io/tabulaCapitolina/analysisPage.html)
+  - **OR** Do general trends thing
+- see if I can get the imagecitation2 tool to work and put them above
+- link editorial practices from the home page start section
+- add back feature to the home thing where needed
 
 
 ### Content 
@@ -15,8 +22,10 @@
   - analyze significance of figures shown on the stone for those books
 - dig deeper into the inclination towards Poseidon
 - add rough line ranges for Iliad passages
-  - Calculate relative sizes within work and within book, *maybe*?
-- a more elaborate discussion//introduction on the Tabula Capitolina, referencing bibliography, **essential**
+- make sure im solid on the Timelines 
+  - compare that other guys?
+- Go over editorial practices more
+
   
 ### Broader Expansion   
 - Add Epic Cycle portion of the Tabula Capitolina to this site, *maybe*?  
