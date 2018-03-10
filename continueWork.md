@@ -8,7 +8,6 @@
 - expand the Tabulae CSV file with more detailed information??
 - undo unnecessary link [here](https://brclar15.github.io/tabulaCapitolina/analysisPage.html)
   - **OR** Do general trends thing
-- put in ICT2 links everywhere
 
 
 ### Content 
