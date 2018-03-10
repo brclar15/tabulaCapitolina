@@ -18,8 +18,7 @@ If one accepts that these stones are all part of the same group, it becomes poss
 
 Another factor that aids in dating the Tabulae is focus on Aeneas seen in the Tabula Capitoline. The Trojan hero and future founder of Rome appears four times through the pictorial retellings. The artist went to great length to highlight Aeneas, focusing on actions that strongly tie to the *Aeneid* and the myth of the foundation of Rome. In rapid succession, he is seen receiving the *penates*, fleeing the burning citadel with Anchises on his back and Ascanius, and then boarding a ship with the caption "Αἰνήας σὺν τοῖς ἰδίοις ἀπαί<ρ>ων εἰς τὴν Ἑσπερίαν." Both Squire and Petrain note that not only the focus on Aeneas and the foundation myth, but also the artistic representation of Aeneas closely matches that of the Ara Pacis and the Forum of Augustus[Squire 2011, 59, Petrain 20]. With the forum being completed in 5 BCE, and the publishing of the *Aeneid* in 19 BCE, one can confidently situate the Tabulae at the end of the reign of Augustus, or shortly after. 
 
-## History of their scholarship 
-### As well as their function
+## History of Their Scholarship and Their Function
 
 The problem that arises when dealing with the scholarship on the Tabulae Iliacae is that the publications mirror the piecemeal fashion in which the stones were found. The first reference to the Tabulae appears to be Raffaella Fabretti in his work on Trajan's column in 1683 as an appendix, where he focuses on the Tabula Capitoline and mentions three others[Squire 2011, 28]. 
 
@@ -31,7 +30,7 @@ Nicholas Horsfall wrote the next major publication the Tabulae in 1979. However,
 
 Nina Valenzuela Montenegro produced the next important work on the Tabulae. In her 2004 work Die Tabulae Iliacae, is the first to include twenty-two stones. Her approach thoroughly analyzes the inscriptions in conjunction with their corresponding images, which has been previously divorced from one another in scholarship. Valenzuela Montenegro's work is the most complete treatment of the dating, workshops, and literary context of these artifacts[Petrain 12].
 
-The two most up-to-date works on the Tabulae are that of Michael Squire and David Petrain. Building upon the centuries of work done on these artifacts, both scholars work through the Tabulae's original context as well adopting Valenzuela Montenegro's approach of maintaining the connection between the text and images on the stones. Petrain addresses how an ancient audience would have read these complex objects, and draws extensive parallels between the Tabula Capitolina and famous ekphrases in classical literature. His appendices are invaluable to any study of the Tabulae for their completeness and ease in synthesizing his discussion of the text and images on the stones. Michael Squire 
+The two most up-to-date works on the Tabulae are that of Michael Squire and David Petrain. Building upon the centuries of work done on these artifacts, both scholars work through the Tabulae's original context as well adopting Valenzuela Montenegro's approach of maintaining the connection between the text and images on the stones. Petrain addresses how an ancient audience would have read these complex objects, and draws extensive parallels between the Tabula Capitolina and famous ekphrases in classical literature. His appendices are invaluable to any study of the Tabulae for their completeness and ease in synthesizing his discussion of the text and images on the stones. Michael Squire **pick up here, make sure to state function**
 
 as have shown that these highly complex and allusive documents are greatly worthy of interest. They were meant to be displayed and used by a highly educated class of people in order to display their knowledge. 
 
