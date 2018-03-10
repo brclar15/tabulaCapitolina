@@ -2,6 +2,17 @@
 
 # Intro to Tabula Capitolina
 
+## Tabulae Iliacae
+
+The Tabulae Iliacae are a group [twenty-two stone tablets](https://github.com/brclar15/tabulaCapitolina/blob/master/tabulae.csv)[1. Note that there are one or two spurious ones, cite Squire 2011 appendix 413-416] that are given this name due to the images which they bear. Beger used this name first in 1699, and the name continues to be used today. While the initial impulse may be to associate these stones with the *Iliad*, Squire notes that "the adjective *Iliaca* at once suggests the *Iliad* while outwardly referring simply to anything 'Trojan[Squire 2011, 32].' Still, although the majority of these stones depict scenes from the Trojan Epic Cycle, six of them focus on Heracles, Alexander the Great, or other scenes. However, due to their similar design, material, and supposed function, they are still considered part of the Tabulae Iliacae (Petrain 2). The most striking aspects that suggest that these stones are part of the same category are the presence of carved low-raised relief figure accompanied by Greek inscriptions found on all of them, as well as similar reverse inscriptions, seven of which are in the so called "magic square" formation[foot note to image 11, 24, 4, 6 9]. Following the tradition of numerous scholars, I have maintained the contentious title of these objects for ease of reference. 
+
+## Tabula Capitoline, why this one
+## Date and Location
+## Function
+## History of their scholarship
+
+- Horsfall bleh, Vavelzuea more, then Squire and Petrain a ton
+
 
 The Tabula Capitolina is one of [twenty-two stone tablets](https://github.com/brclar15/tabulaCapitolina/blob/master/tabulae.csv) known collectively as the Tabulae Iliacae. While these vast majority of these artifacts deal with the Epic Cycle, or events dealing with the Trojan War, some stones instead depict scenes that focus on Heracles or Alexander the Great. However, due to their similar design, material, and supposed function, they are still considered part of the Tabulae Iliacae (Petrain 2). When compared to other surviving monuments, the pictorial representations found on the various tabulae seem to resemble other artifacts from the Augustan Age. The Tabula Capitolina's repeated focus on Aeneas, especially as he flees Troy during the *Iliupersis*, helps place this tabula, and therefore the others, during this period. The best solution would be to date these objects to the first century CE, at the end of or shortly after Augustus' rule (West3).
 
