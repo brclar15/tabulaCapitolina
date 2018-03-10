@@ -18,7 +18,8 @@ If one accepts that these stones are all part of the same group, it becomes poss
 
 Another factor that aids in dating the Tabulae is focus on Aeneas seen in the Tabula Capitoline. The Trojan hero and future founder of Rome appears four times through the pictorial retellings. The artist went to great length to highlight Aeneas, focusing on actions that strongly tie to the *Aeneid* and the myth of the foundation of Rome. In rapid succession, he is seen receiving the *penates*, fleeing the burning citadel with Anchises on his back and Ascanius, and then boarding a ship with the caption "Αἰνήας σὺν τοῖς ἰδίοις ἀπαί<ρ>ων εἰς τὴν Ἑσπερίαν." Both Squire and Petrain note that not only the focus on Aeneas and the foundation myth, but also the artistic representation of Aeneas closely matches that of the Ara Pacis and the Forum of Augustus[Squire 2011, 59, Petrain 20]. With the forum being completed in 5 BCE, and the publishing of the *Aeneid* in 19 BCE, one can confidently situate the Tabulae at the end of the reign of Augustus, or shortly after. 
 
-## History of their scholarship and their Function 
+## History of their scholarship 
+### As well as their function
 
 The problem that arises when dealing with the scholarship on the Tabulae Iliacae is that the publications mirror the piecemeal fashion in which the stones were found. The first reference to the Tabulae appears to be Raffaella Fabretti in his work on Trajan's column in 1683 as an appendix, where he focuses on the Tabula Capitoline and mentions three others[Squire 2011, 28]. 
 
