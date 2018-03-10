@@ -18,16 +18,17 @@ If one accepts that these stones are all part of the same group, it becomes poss
 
 Another factor that aids in dating the Tabulae is focus on Aeneas seen in the Tabula Capitoline. The Trojan hero and future founder of Rome appears four times through the pictorial retellings. The artist went to great length to highlight Aeneas, focusing on actions that strongly tie to the *Aeneid* and the myth of the foundation of Rome. In rapid succession, he is seen receiving the *penates*, fleeing the burning citadel with Anchises on his back and Ascanius, and then boarding a ship with the caption "Αἰνήας σὺν τοῖς ἰδίοις ἀπαί<ρ>ων εἰς τὴν Ἑσπερίαν." Both Squire and Petrain note that not only the focus on Aeneas and the foundation myth, but also the artistic representation of Aeneas closely matches that of the Ara Pacis and the Forum of Augustus[Squire 2011, 59, Petrain 20]. With the forum being completed in 5 BCE, and the publishing of the *Aeneid* in 19 BCE, one can confidently situate the Tabulae at the end of the reign of Augustus, or shortly after. 
 
-## Function
-## History of their scholarship
+## History of their scholarship and their Function 
 
-- Horsfall bleh, Vavelzuea more, then Squire and Petrain a ton
+The problem that arises when dealing with the scholarship on the Tabulae Iliacae is that the publications mirror the piecemeal fashion in which the stones were found. The first reference to the Tabulae appears to be Raffaella Fabretti in his work on Trajan's column in 1683 as an appendix, where he focuses on the Tabula Capitoline and mentions three others[Squire 2011, 28]. 
 
+In 1873, Otto Jahn's work was augmented and published by his nephew Adolf Michaelis as *Griechische Bilderchroniken*. This work detailed twelve Tabulae and began the trend of cataloguing them with letters (A through M, with no I). Here, Michaelis posits that the Tabulae served as teaching aids, but for a well-educated audience, given their highly compressed format[Pertain 11]. 
 
+In 1964, Anna Sadurska's *Les Tables Iliaques* served as a catalogue and extensive study of nineteen such objects. She begins the practice of adding numbers to the catalogue letters that Jahn began, giving us the current labeling system for the Tabulae. Notably, she published nineteen black and white plates of the stones, along with her catalogue[Squire 2011, 30 notes that these are of superior size and quality compared to VM's in 46 plates in 2004].
 
+Nicholas Horsfall wrote the next major publication the Tabulae in 1979. However, he is a controversial figure in the history of these artifacts. Horsfall argues that, due to a few inaccuracies when compared to literary sources, the Tabulae must have been low-class educational tools for an audience that needed to be reminded of Homer, but did not care about accuracy. Squire skips over Horsfall entirely in his review of the scholarship on the Tabulae, relegating him to the footnotes. In contrast, Petrain calls his work a "landmark article," but qualifies that "all students of the tablets are in his debt - even if we cannot agree with his overall evaluation of the objects.[Petrain 11-12]"
 
-
-The scholarship on the Tabulae Iliacae has been divided on the subject of their importance. Previously, they were thought to be low-class carvings for adult education due to some inconsistencies between the stone and the Iliad. However, more recent scholars, such as Michael Squire and David Petrain have shown that these highly complex and allusive documents are greatly worthy of interest. They were meant to be displayed and used by a highly educated class of people in order to display their knowledge. The wealth of images and text that they provide, particularly the Tabula Capitolina, make them excellent sources for the comparison of retellings. 
+The scholarship on the Tabulae Iliacae has been divided on the subject of their importance. Previously, they were thought to be low-class carvings for adult education due to some inconsistencies between the stone and the Iliad. However, more recent scholars, such as Michael Squire and David Petrain have shown that these highly complex and allusive documents are greatly worthy of interest. They were meant to be displayed and used by a highly educated class of people in order to display their knowledge. 
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
