@@ -4,7 +4,7 @@
 
 - [Tabula Capitolina Overview](intro.md)
 
-- [A Collection of Photography of the Tabula Capitolina](images.md)
+- [Various Catalogues of Data and Photography](catalogues.md)
 
 - [Diplomatic Digital Edition](digitalEditing.md)
 
