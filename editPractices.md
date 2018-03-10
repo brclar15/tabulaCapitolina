@@ -1,5 +1,6 @@
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Digital Editing page](digitalEditing.md)
 
 
 
@@ -28,3 +29,4 @@ As I have already established, an important aspect of a digital edition is that 
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Digital Editing page](digitalEditing.md)
