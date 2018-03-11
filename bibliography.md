@@ -20,6 +20,7 @@
 - Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73.
 - Petrain, David. Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
 - Tsagalis, Christos. The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
+- Sadurska, Anna. Les Tables Iliaques (Państwowe Wydawn 1964)
 - Walter-Karydi, Elena. Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009)
 - West, M. L. Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - West, M. L. The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
