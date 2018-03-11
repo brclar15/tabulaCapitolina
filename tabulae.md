@@ -14,32 +14,33 @@
 | urn:cite:cycle:tabulae.1A  | "Capitolina"  | A  | "Rome, Museo Capitolino, Sale delle Colombe, inv. 316" |
 | urn:cite:cycle:tabulae.2NY  |  "New York" |   |  "New York, Metropolitan Museum of Art, inv. 24.97.11" |
 | urn:cite:cycle:tabulae.3C  | "Veronensis 1"  | C  | "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France), inv. 3318"  |
-| urn:cite:cycle:tabulae.4N  | "Shield of Achilles (red stone)"  |   | "Rome, Museo Capitolino, Sale delle Colombe, inv. 83a"  |
+| urn:cite:cycle:tabulae.4N  | "Shield of Achilles (red stone)"  |   | "Rome, Museo Capitolino, Sale delle Colombe, inv. 83a" |
+| urn:cite:cycle:tabulae.5O  | "Shield of Achilles (calcite)"  |   | "Rome, Museo Capitolino, Sale delle Colombe, inv. 83b"  |
+| urn:cite:cycle:tabulae.6B  | "Sarti"  |  B | "Lost (known from 19th c. drawing)"  |
+| urn:cite:cycle:tabulae.7Ti  | "Thierry"  |   |  "Lost (known from a 19th c. photograph)" |
+| urn:cite:cycle:tabulae.8E  | "Zenodotus"  |  E | "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France), inv. 3321"  |
+|  urn:cite:cycle:tabulae.9D | "Veronensis 2"  |  D | "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France), inv. 3319"  |
+|  urn:cite:cycle:tabulae.10K |  "Borgia" | K  |  "Naples, Museo Nazionale, inv. 2408" |
+| urn:cite:cycle:tabulae.11H  | "Randanini"  | H  | "Warsaw, Muzeum Narodowe, inv. 147975 MN"  |
+| urn:cite:cycle:tabulae.12F  | "Ransom of Hector (yellow marble)"  | F  |  "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France), inv. 3320" |
+| urn:cite:cycle:tabulae.13Ta  | "Tarentina"  |   | "London, British Museum, inv. 2192"  |
+|  urn:cite:cycle:tabulae.14G | "Homer"  | G  | "Berlin, Staatliche Museen, Antike Sammlungen, inv. 1755"  |
+| urn:cite:cycle:tabulae.15Ber  | "Dressel"  |   |  "Berlin, Staatliche Museen, Antike Sammlungen, inv. 1813" |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 
 
 
 
 
-
-,,,
-urn:cite:cycle:tabulae.5O,"Shield of Achilles (calcite)",,"Rome, Museo Capitolino, Sale delle Colombe, inv. 83b"
-urn:cite:cycle:tabulae.6B,"Sarti",B,"Lost (known from 19th c. drawing)"
-urn:cite:cycle:tabulae.7Ti,"Thierry",,"Lost (known from a 19th c. photograph)"
-urn:cite:cycle:tabulae.8E,"Zenodotus",E,"Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de
-la Bibliothèque nationale de France), inv. 3321"
-urn:cite:cycle:tabulae.9D,"Veronensis 2",D,"Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques
-de la Bibliothèque nationale de France), inv. 3319"
-urn:cite:cycle:tabulae.10K,"Borgia",K,"Naples, Museo Nazionale, inv. 2408"
-urn:cite:cycle:tabulae.11H,"Randanini",H,"Warsaw, Muzeum Narodowe, inv. 147975 MN"
-urn:cite:cycle:tabulae.12F,"Ransom of Hector (yellow marble)",F,"Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de
-la Bibliothèque nationale de France), inv. 3320"
-urn:cite:cycle:tabulae.13Ta,"Tarentina",,"London, British Museum, inv. 2192"
-urn:cite:cycle:tabulae.14G,"Homer",,"Berlin, Staatliche Museen, Antike Sammlungen, inv. 1755"
-urn:cite:cycle:tabulae.15Ber,"Dressel",G,"Berlin, Staatliche Museen, Antike Sammlungen, inv. 1813"
+,,G,
 urn:cite:cycle:tabulae.16Sa,"Tomassetti (Odysseaca)",,"Rome, Museo Sacro del Vaticano, inv. 0066"
 urn:cite:cycle:tabulae.17M,"Chigi",M,"Palazzo Chigi, no inventory number"
 urn:cite:cycle:tabulae.18L,"Roman Chronicle 1",,"Rome, Museo Capitolino, Sale delle Colombe, inv. 82"
