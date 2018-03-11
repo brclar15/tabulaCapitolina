@@ -1,4 +1,5 @@
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Catalogue page](catalogues.md)
 
 # A Collection of the Tabulae Iliacae
 
@@ -26,29 +27,16 @@
 | urn:cite:cycle:tabulae.13Ta  | "Tarentina"  |   | "London, British Museum, inv. 2192"  |
 |  urn:cite:cycle:tabulae.14G | "Homer"  | G  | "Berlin, Staatliche Museen, Antike Sammlungen, inv. 1755"  |
 | urn:cite:cycle:tabulae.15Ber  | "Dressel"  |   |  "Berlin, Staatliche Museen, Antike Sammlungen, inv. 1813" |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| urn:cite:cycle:tabulae.16Sa  | "Tomassetti (Odysseaca)"  |   | "Rome, Museo Sacro del Vaticano, inv. 0066"  |
+| urn:cite:cycle:tabulae.17M  | "Chigi"  | M  | "Palazzo Chigi, no inventory number"  |
+| urn:cite:cycle:tabulae.18L  | "Roman Chronicle 1"  | L  | "Rome, Museo Capitolino, Sale delle Colombe, inv. 82"  |
+| urn:cite:cycle:tabulae.19J  | "Albani"  | J  |  "Rome, Villa Albani, inv. 957" |
+| urn:cite:cycle:tabulae.20Par  | "Froehner"  |   |  "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 148" |
+| urn:cite:cycle:tabulae.21Fro  | "Lytra"  |   |  "Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 146" |
+| urn:cite:cycle:tabulae.22VP  | "Roman Chronicle 2"  |   |   |
+| urn:cite:cycle:tabular:22Get  | "Getty"  |   | "Malibu, Getty Museum, inv. 81.AA.113"  |
 
 
 
-
-
-
-,,G,
-urn:cite:cycle:tabulae.16Sa,"Tomassetti (Odysseaca)",,"Rome, Museo Sacro del Vaticano, inv. 0066"
-urn:cite:cycle:tabulae.17M,"Chigi",M,"Palazzo Chigi, no inventory number"
-urn:cite:cycle:tabulae.18L,"Roman Chronicle 1",,"Rome, Museo Capitolino, Sale delle Colombe, inv. 82"
-urn:cite:cycle:tabulae.19J,"Albani",J,"Rome, Villa Albani, inv. 957"
-urn:cite:cycle:tabulae.20Par,"Froehner",,"Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques
-de la Bibliothèque nationale de France) Froehner, inv. VIII 148"
-urn:cite:cycle:tabulae.21Fro,"Lytra",,"Paris, Cabinet des Médailles (Département des Monnaies, Médailles et
-Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 146"
-urn:cite:cycle:tabulae.22VP,"Roman Chronicle 2",,
-urn:cite:cycle:tabulae.23Ky,"Cumae",,
-urn:cite:cycle:tabular:22Get,"Getty",,"Malibu, Getty Museum, inv. 81.AA.113"
+#### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Catalogue page](catalogues.md)
