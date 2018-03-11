@@ -31,10 +31,10 @@
 | urn:cite:cycle:tabulae.17M  | Chigi  | M  |   [obverse](http://shot.holycross.edu/eikon/tabulaeiliacae/image_28.jpeg) reverse uninscribed   | Palazzo Chigi, no inventory number  |
 | urn:cite:cycle:tabulae.18L  | Roman Chronicle 1  | L  |  [obverse](http://shot.holycross.edu/eikon/tabulaeiliacae/image_30.jpeg) [reverse](http://shot.holycross.edu/eikon/tabulaeiliacae/image_31.jpeg)    | Rome, Museo Capitolino, Sale delle Colombe, inv. 82  |
 | urn:cite:cycle:tabulae.19J  | Albani  | J  |  [obverse](http://shot.holycross.edu/eikon/tabulaeiliacae/image_22.jpeg) reverse uninscribed    |  Rome, Villa Albani, inv. 957 |
-| urn:cite:cycle:tabulae.20Par  | Froehner  |   |   | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 148 |
-| urn:cite:cycle:tabulae.21Fro  | Lytra  |   |     | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 146 |
-| urn:cite:cycle:tabulae.22VP  | Roman Chronicle 2  |   |    |  | 
-| urn:cite:cycle:tabular:22Get  | Getty  |   |    | Malibu, Getty Museum, inv. 81.AA.113  |
+| urn:cite:cycle:tabulae.20Par  | Froehner  |   |  not found at time of publication | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 148 |
+| urn:cite:cycle:tabulae.21Fro  | Lytra  |   |  not found at time of publication   | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 146 |
+| urn:cite:cycle:tabulae.22VP  | Roman Chronicle 2  |   |  not found at time of publication  |  | 
+| urn:cite:cycle:tabular:22Get  | Getty  |   | not found at time of publication   | Malibu, Getty Museum, inv. 81.AA.113  |
 
 
 
