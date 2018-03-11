@@ -9,7 +9,8 @@
 
 ## Data
 
-- [Collection of the Tabulae Iliacae](tabulae.csv)
+- [Collection of the Tabulae Iliacae](tabulae.md)
+  - [the same data in a `.csv` file](tabulae.csv)
 
 
 
