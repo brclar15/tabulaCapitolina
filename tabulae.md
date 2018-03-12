@@ -34,7 +34,7 @@
 | urn:cite:cycle:tabulae.20Par  | Froehner  |   |  not found at time of publication | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 148 |
 | urn:cite:cycle:tabulae.21Fro  | Lytra  |   |  not found at time of publication   | Paris, Cabinet des Médailles (Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France) Froehner, inv. VIII 146 |
 | urn:cite:cycle:tabulae.22VP  | Roman Chronicle 2  |   |  not found at time of publication  |  | 
-| urn:cite:cycle:tabular:22Get  | Getty  |   | not found at time of publication   | Malibu, Getty Museum, inv. 81.AA.113  |
+| urn:cite:cycle:tabular:22Get  | Getty  |   | not found at time of publication   | Malibu, Getty Museum, [inv. 81.AA.113](http://www.getty.edu/art/collection/objects/9760/unknown-maker-tablet-tabula-iliaca-inscribed-with-a-historical-text-roman-ad-16-20/?dz=0.5000,0.6126,0.54)  |
 
 
 
