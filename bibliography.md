@@ -12,6 +12,7 @@
 - GiulianiLuca, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348
 - Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
+- Lowenstam, Steven. The Uses of Vase-Depictions in Homeric Studies (Transactions of the American Philological Association Vol. 122 (1992), pp. 165-198)
 - Manolova, Tzveta. Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010)
 - Monro, D. B. The Poems of the Epic Cycle (The Journal of Hellenic Studies 1884)
 - Nunlist, Rene. The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
