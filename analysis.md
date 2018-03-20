@@ -18,13 +18,13 @@ The figure of [Athena restrains Achilles](http://www.homermultitext.org/ict2/?ur
 The episode where [Thetis supplicates Zeus](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_15@0.6107,0.02199,0.08876,0.1062) is a prime example of how highly compressed these episodes can be. The reader does not get the initial part of the episode, namely Achilles' plea to Thetis, but rather the outcome. Besides these two figures and their posture, no more information is needed in order for the audience to be able to recognize this episode. An ancient audience would have been able to read this scene, even without Thetis being labeled. Zeus is not labeled, but does not need to be in order to make the scene recognizable, given his posture and connection to Thetis. The iconography of the scene serves to identify the episode, and the audience's knowledge of the poem fills out the rest. The Tabula is a highly compressed retelling, and therefore cannot spell out the entire episode, but rather chooses evocative moments that call the wider episode to mind. 
 
 
-[1] : this is supported by comparison with 3C and 6B
+	[1] : this is supported by comparison with 3C and 6B
 
-[2] : Squire 2011, 171 only briefly entertains this idea, but does not explain his quick decision to move on While Petrain does not explicitly propose this hypothesis, he does suggest that there are episodes missing from the band dedicated to the *Aethiopis* (Petrain 198) By extension, that would mean that there was more to be found in the band for book 1 as well. Given the fact that the preface is missing its first three words, and that there would have needed to be space for the first inscribed stele, there is no doubt that at least one addition scene was found in book 1. The question that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*]  
+	[2] : Squire 2011, 171 only briefly entertains this idea, but does not explain his quick decision to move on While Petrain does not explicitly propose this hypothesis, he does suggest that there are episodes missing from the band dedicated to the *Aethiopis* (Petrain 198) By extension, that would mean that there was more to be found in the band for book 1 as well. Given the fact that the preface is missing its first three words, and that there would have needed to be space for the first inscribed stele, there is no doubt that at least one addition scene was found in book 1. The question that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*]  
 
-[3] : see Proclus' summaries of the Epic Cycle, found in the Venetus A and Upsilon 1.1 manuscripts of the *Iliad*
+	[3] : see Proclus' summaries of the Epic Cycle, found in the Venetus A and Upsilon 1.1 manuscripts of the *Iliad*
 
-[4] : Squire 135
+	[4] : Squire 135
 
 
 ## Book 7
@@ -81,7 +81,7 @@ It is difficult to assert the importance of behind these figures in the battle b
 [Asius' name](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.6131,0.8177,0.09896,0.02387) is inscribed above his figure, instead of below in the usual position of the captions. The only other instance of this is the [ασπις](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.3030,0.5152,0.07841,0.02344) in book 18. Jahn in his drawing misses Ainus' name, but includes the ασπις, while the IG includes Ainus's name (without mentioning its position) and overlooks the ασπις. 
 
 
-[5] : Iliad 13.433
+	[5] : Iliad 13.433
 
 ## [Book 14](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.07523,0.6580,0.8701,0.1691)
 
@@ -97,7 +97,7 @@ However, Apollo does not figure in this book of the *Iliad* at all. Perhaps he i
 
 A notable omission in both of the Tabula's retellings is the episode of Hera and Zeus. This unique episode is what allows Poseidon, and later Apollo, to join the battle. Because of this casual link, as well as the Tabula's aversion to depicting events that do not take place at Troy, it is not entirely surprising that the artist removes this episode. However, the singularity of this episode and its extended treatment in the poem itself does call the reason for its absence into question. 
 
-[6] : Pertain writes that "[Ajax] advances on Poseidon," which seems to suggest that he views this scene as hostile
+	[6] : Pertain writes that "[Ajax] advances on Poseidon," which seems to suggest that he views this scene as hostile
 
 ## [Book 15](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.1024,0.4813,0.8383,0.1964)
 
@@ -109,7 +109,7 @@ The group of Trojans is also revealing about how these images retell the action 
 
 In the *Iliad*, this book opens with Zeus' anger at Hera for her actions in book 14. As a result of this rage, he further allows the tide of battle to turn in the Trojans' favor. Yet, none of this is retained in either the textual or visual retelling. The reason for this is that the gods' plan only set this book in motion, and, as has been shown, the Tabula concerns itself more with outcomes, rather than plans that precipitate later actions. 
 
-[7] : Squire 194 also views these figures as Ajax and Teucer without much difficulty. He goes on to note the "additional [indistinct shape](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.7873,0.5017,0.09751,0.07031) at the right end of the ship," but offers no explanation. This mass is absent from Jahn's drawing. Since the area in question does not resemble a person, I propose that it should be taken as another prow of a Greek ship. This small addition would heighten the tension and remind the reader of the potential mass destruction due to the Trojan onslaught. However, the stone is too damaged to identify this was confidently.
+	[7] : Squire 194 also views these figures as Ajax and Teucer without much difficulty. He goes on to note the "additional [indistinct shape](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.7873,0.5017,0.09751,0.07031) at the right end of the ship," but offers no explanation. This mass is absent from Jahn's drawing. Since the area in question does not resemble a person, I propose that it should be taken as another prow of a Greek ship. This small addition would heighten the tension and remind the reader of the potential mass destruction due to the Trojan onslaught. However, the stone is too damaged to identify this was confidently.
 
 ## [Book 16](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.08015,0.3418,0.8631,0.1747)
 
@@ -126,13 +126,13 @@ The visual and textual retelling both show [Patroclus slaying Trojans](http://ww
 The death of Patroclus is one of the core deaths that must occur within the narrative bounds of the *Iliad*. Much like Hector, he cannot live beyond the scope of the poem. The textual retelling mentions Hector slaying Patroclus and taking his armor. However, this scene does not appear within Patroclus' episode in the carved images. The image band for book 16 ends with Patroclus routing the Trojan chariot. One might expect an image such as the one found in the center of the band for book 22, where Achilles is seen killing Hector. However, since Patroclus' body figures in every scene of the episode of book 17, the artist was able to omit showing the moment that Patroclus dies, or even the confrontation with Hector. The reader of the Tabula was interested in contemplating the *Iliad* as a whole, continuous poem. Even though the visual retelling is divided into separate books, it is meant to be read as a whole work. With Patroclus' body so central to the following band, it may have seem redundant to have his body appear at the end of the band for book 16, as it does in the *Iliad*. As will be seen in the next book, the artist may have felt that the audience did not need the moment of Patroclus' death, since his corpse so greatly dominates book 17's pictorial retelling. 
 
 
-[8] : for a discussion on the connection between the textual retelling and other sources, notably Apollodorus' *Bibliotheke*, see Rossum-Steenbeck
+	[8] : for a discussion on the connection between the textual retelling and other sources, notably Apollodorus' *Bibliotheke*, see Rossum-Steenbeck
 
-[9] : *Iliad* 2.695-2.710
+	[9] : *Iliad* 2.695-2.710
 
-[10] : *Iliad* 15.705, and it is from his ship that Patroclus strikes down his first foe (*Iliad* 16.286)
+	[10] : *Iliad* 15.705, and it is from his ship that Patroclus strikes down his first foe (*Iliad* 16.286)
 
-[11] : Lowenstam 175
+	[11] : Lowenstam 175
 
 ## [Book 17](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.09346,0.1973,0.8383,0.1810)
 
@@ -142,9 +142,9 @@ The retellings of 17 match the *Iliad* closely. The carved images show three dif
 
 The textual retelling does add the episode where Antilochus is sent to report the news of Patroclus' death to Achilles[^13].  This may seem trivial, but it does bridge the gap between the battlefield and Achilles' tent, just as it bridges books 17 and 18. The stone is too heavily damaged at this line for any of the editors to confidently read what else is added. The inclusion of this element in the textual retelling shows its desire to show how events precipitate others. Similar to the fact that Achilles cannot rejoin the war until he has armor, he cannot request the armor until he knows that he will have cause to rejoin the war in order to avenge the death of his companion and recover his own arms. This episode, while brief, serves to complete the chain of events that must take place in the *Iliad*. 
 
-[12] : Petrain also notes that these labels are simply absent (Petrain 194)
+	[12] : Petrain also notes that these labels are simply absent (Petrain 194)
 
-[13] : The stone is heavily damaged at this point, line 78, with the IG reading a random series of letters and Petrain and I both leaving it as completely unclear
+	[13] : The stone is heavily damaged at this point, line 78, with the IG reading a random series of letters and Petrain and I both leaving it as completely unclear
 
 
 ## [Book 18](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.04659,0.6376,0.8573,0.1929)

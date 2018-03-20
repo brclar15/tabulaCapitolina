@@ -29,11 +29,11 @@ If one accepts that these stones are all part of the same group, it becomes poss
 
 Another factor that aids in dating the Tabulae is focus on Aeneas seen in the Tabula Capitoline. The Trojan hero and future founder of Rome appears four times through the pictorial retellings. The artist went to great length to highlight Aeneas, focusing on actions that strongly tie to the *Aeneid* and the myth of the foundation of Rome. In rapid succession, he is seen receiving the *penates*, fleeing the burning citadel with Anchises on his back and Ascanius, and then boarding a ship with the [caption](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_1@0.177,0.8053,0.19,0.032) Αἰνήας σὺν τοῖς ἰδίοις ἀπαί<ρ>ων εἰς τὴν Ἑσπερίαν." Both Squire and Petrain note that not only the focus on Aeneas and the foundation myth, but also the artistic representation of Aeneas closely matches that of the Ara Pacis and the Forum of Augustus[^8]. With the forum being completed in 5 BCE, and the publishing of the *Aeneid* in 19 BCE, one can confidently situate the Tabulae at the end of the reign of Augustus, or shortly after. 
 
-[6] : Petrain 14, 20
+	[6] : Petrain 14, 20
 
-[7] : For this same reason, 19J is noticeably later, in the second century. But should be seen as showing how popular these things were, Squire 2011 61
+	[7] : For this same reason, 19J is noticeably later, in the second century. But should be seen as showing how popular these things were, Squire 2011 61
 
-[8] : Squire 2011, 59, Petrain 20
+	[8] : Squire 2011, 59, Petrain 20
 
 ## History of Their Scholarship and Their Function
 
@@ -51,17 +51,17 @@ The two most recent major works on the Tabulae are that of David Petrain and Mic
 
 Thanks to both Squire and Pertain, the Tabulae have recently been seen in different light. After decades of being cast aside as inferior remedial educational tools, thanks to Horsfall's scathing treatment of them, scholars are more readily acknowledging that the Tabulae Iliacae are deeply learned, allusive documents that are worthy of great interest. They were meant to be displayed and used by a highly educated class of people in order to display their knowledge. Instead of merely reproducing literary works, the stones evoke the scene, but also challenge the reader "to forge new narrative connections, championing innovative sorts of associations between the stories evoked and displayed[^14]. The lofty language found on the stones, notably in the preface to the Tabula Capitolina [([Θεοδ]ώρηον μάθε **τάξιν** Ὁμήρου ὄφρα δαεὶς πάσης μέτρον ἔχῃς **σοφίας**)](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_1@0.032,0.824,0.694,0.0373), the detailed craftsmanship of the minute figures, and the clear but challenging connection between the text and the images all support the idea that these were elite objects used by an educated class to spark inspiration, reflection, and debate. 
 
-[9] : [Squire 2011, 28]
+	[9] : [Squire 2011, 28]
 
-[10] : Pertain 11
+	[10] : Pertain 11
 
-[11] : Squire 2011, 30 notes that these are of superior size and quality compared to VM's in 46 plates in 2004
+	[11] : Squire 2011, 30 notes that these are of superior size and quality compared to VM's in 46 plates in 2004
 
-[12] : Petrain 11-12
+	[12] : Petrain 11-12
 
-[13] : Petrain 12
+	[13] : Petrain 12
 
-[14] : Fantuzzi, 529
+	[14] : Fantuzzi, 529
 
 
 
