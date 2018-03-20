@@ -6,15 +6,15 @@
 
 The Tabulae Iliacae are a group [twenty-two stone tablets](https://github.com/brclar15/tabulaCapitolina/blob/master/tabulae.md)[^1] that are given this name due to the images which they bear. Beger used this name first in 1699, and the name continues to be used today. While the initial impulse may be to associate these stones with the *Iliad*, Squire notes that "the adjective *Iliaca* at once suggests the *Iliad* while outwardly referring simply to anything 'Trojan[^2].' Still, although the majority of these stones depict scenes from the Trojan Epic Cycle, six of them focus on Heracles, Alexander the Great[^3], or other scenes. However, due to their similar size, design, and supposed function, they are still considered part of the Tabulae Iliacae [^4]. The most striking aspects that suggest that these stones are part of the same category are the presence of carved low-raised relief figure accompanied by Greek inscriptions found on all of them, as well as similar reverse inscriptions, seven of which are in the so called "magic square" formation[^5]. Following the tradition of numerous scholars, I have maintained the contentious title of these objects for ease of reference. 
 
-[1] : It must be noted that 23 is counted as spurious, cite Squire 2011 appendix 413-416
+	[1] : It must be noted that 23 is counted as spurious, cite Squire 2011 appendix 413-416
 
-[2] : Squire 2011, 32
+	[2] : Squire 2011, 32
 
-[3] : for the oddities of the historical ones, see Squire 2011 pg 49 for its possible connection to Julio-Claudian ideology that fits with the Aeneas bit in the Tab Cap
+	[3] : for the oddities of the historical ones, see Squire 2011 pg 49 for its possible connection to Julio-Claudian ideology that fits with the Aeneas bit in the Tab Cap
 
-[4] : See Petrain 2
+	[4] : See Petrain 2
 
-[5] : foot note to image 11, 24, 4, 6 9
+	[5] : foot note to image 11, 24, 4, 6 9
 
 
 ## Tabula Capitolina
