@@ -19,14 +19,14 @@
     </teiHeader>
     <text>
         <body>
-            <div n="preface">
+            <div n="Preface">
 
 
                 <ab n="1"><gap/>ρηον μαθε ταξιν <persName n="urn:cite:hmt:pers.pers17"
                     >ομηρος</persName> οφρα δαεις πασης μετρον εχης σοφιας </ab>
             </div>
 
-            <div n="contents">
+            <div n="Contents">
                 <ab n="1"><title>ιλιου περσις</title></ab>
                 <ab n="2">κατα <persName n="urn:cite:hmt:pers.pers339">στησχορον</persName></ab>
                 <ab n="3">τρωικος</ab>
@@ -43,7 +43,7 @@
                     <rs type="ethnic" n="urn:cite:hmt:place.place432">πυρραιον</rs></ab>
             </div>
 
-            <div n="stele">
+            <div n="Stele">
                 <ab n="1">οι δ <rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιοι</rs> τιχος
                     τεχαι</ab>
                 <ab n="2">ταφρον ποιουνται <w part="I">πε</w></ab>
@@ -246,7 +246,7 @@
                     <unclear>δ</unclear>
                     <supplied><rs type="ethnic" n="urn:cite:hmt:place.place6">αχαιοι</rs> το</supplied></ab>
                 <ab n="83">σωμα του
-                            <w>π<supplied>ατρό</supplied><unclear>κλ</unclear><supplied>ου</supplied></w>
+                            <w>π<supplied>ατρο</supplied><unclear>κλ</unclear><supplied>ου</supplied></w>
                     <supplied>επι</supplied>
                     <w part="I"><supplied>τα</supplied></w></ab>
                 <ab n="84"><w part="F"><supplied>ς</supplied></w>
@@ -265,17 +265,17 @@
                 <ab n="88"><w><supplied>δι</supplied>δωσιν</w>
                     <w>αχ<supplied>ιλλευς</supplied></w>
                     <w><supplied>δ</supplied><unclear>ε</unclear></w>
-                    <w>εἰ<unclear>ς</unclear></w></ab>
+                    <w>ει<unclear>ς</unclear></w></ab>
                 <ab n="89">τὸν <w>σκα<unclear>μ</unclear><supplied>ανδρον</supplied></w>
-                    <w part="I"><supplied>κατ</supplied>αδ<unclear>ι</unclear>ώ</w></ab>
+                    <w part="I"><supplied>κατ</supplied>αδ<unclear>ι</unclear>ω</w></ab>
                 <ab n="90"><w part="F">ξας</w>
                     <w>αστερο<unclear>π</unclear><supplied>αι</supplied><unclear>ον</unclear></w>
                     <w part="I"><unclear>απο</unclear>κτ</w></ab>
                 <ab n="91"><w><supplied>ειν</supplied>ει</w> αχιλλευς δε <unclear>τον
                     εν</unclear></ab>
                 <ab n="92"><supplied>τωι</supplied>
-                    <w><supplied>ποτ</supplied>αμῶι</w>
-                    <w part="I">δια<unclear>φυγ</unclear>ὼ</w></ab>
+                    <w><supplied>ποτ</supplied>αμωι</w>
+                    <w part="I">δια<unclear>φυγ</unclear>ω</w></ab>
                 <ab n="93"><w part="F"><supplied>ν</supplied></w>
                     <supplied>κινδυνον</supplied> εκτορα <w part="I">μονομ</w></ab>
                 <ab n="94"><w part="F"><supplied>αχων</supplied></w>
@@ -313,8 +313,8 @@
 
             </div>
             <div n="Iliad">
-                <div n="iliad_1">
-                    <ab n="1">ιερον <persName n="urn:cite:hmt:pers.pers40">απόλλωνος</persName>
+                <div n="Iliad_1">
+                    <ab n="1">ιερον <persName n="urn:cite:hmt:pers.pers40">απολλωνος</persName>
                         ζμινθεως <persName n="urn:cite:hmt:pers.pers44">χρυσης</persName></ab>
                     <ab n="2">λοιμος</ab>
                     <ab n="3"><persName n="urn:cite:hmt:pers.pers74">καλχας</persName>
@@ -332,10 +332,10 @@
                     <ab n="5"><persName n="urn:cite:hmt:pers.pers19">θετις</persName>
                         <persName n="urn:cite:hmt:pers.pers8"><unclear>ζευ</unclear></persName></ab>
                 </div>
-                <div n="iliad_13">
+                <div n="Iliad_13">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:13">Ν</rs><persName n="urn:cite:hmt:pers.pers503">ασιος</persName></ab>
                 </div>
-                <div n="iliad_14">
+                <div n="Iliad_14">
                     <ab><persName n="urn:cite:hmt:pers.pers510">αρχελοχος</persName>
                         <persName n="urn:cite:hmt:pers.pers281">αιας λοκρoς</persName>
                         <persName n="urn:cite:hmt:pers.pers127">αιας</persName>
@@ -343,21 +343,21 @@
                         <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName>
                         <persName n="urn:cite:hmt:pers.pers40">απολλων</persName></ab>
                 </div>
-                <div n="iliad_15">
+                <div n="Iliad_15">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:15">Ο</rs> αινηας
                         κλιτος <w>παρ<unclear>ις</unclear></w> ελεος εκτωρ Καλητωρ επι ναυσι
                         μαχη</ab>
                 </div>
-                <div n="iliad_16">
+                <div n="Iliad_16">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:16">Π</rs> πατροκ
                                 <w>φοι<unclear>νιξ</unclear></w>
                         <w><unclear>δι</unclear>ομηδης</w> αχιλλευς
                             <w>πατροκλ<unclear>ος</unclear></w></ab>
                 </div>
-                <div n="iliad_17">
+                <div n="Iliad_17">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:17">Ρ</rs></ab>
                 </div>
-                <div n="iliad_18">
+                <div n="Iliad_18">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:18">Σ</rs>
                         <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
                         <persName n="urn:cite:hmt:pers.pers158">πατροκλος</persName>
@@ -366,7 +366,7 @@
                             n="urn:cite:hmt:pers.pers192"
                             ><w><unclear>ηφ</unclear>αιστος</w></persName></ab>
                 </div>
-                <div n="iliad_19">
+                <div n="Iliad_19">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:19">Τ</rs>
                         <persName n="urn:cite:hmt:pers.pers19"
                             ><w>θε<unclear>τις</unclear></w></persName>
@@ -377,18 +377,18 @@
                             ><w><unclear>α</unclear>χιλλευς</w></persName></ab>
                     <ab>ασπις</ab>
                 </div>
-                <div n="iliad_20">
+                <div n="Iliad_20">
                     <ab><persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName>
                         <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
                 </div>
-                <div n="iliad_21">
+                <div n="Iliad_21">
                     <ab><persName n="urn:cite:hmt:pers.pers111"
                             ><w>σκαμανδρ<unclear>ος</unclear></w></persName>
                         <persName n="urn:cite:hmt:pers.pers1"
                             ><w>αχ<unclear>ιλλ</unclear>ευς</w></persName>
                         <persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName> φρυγες</ab>
                 </div>
-                <div n="iliad_22">
+                <div n="Iliad_22">
                     <ab><persName n="urn:cite:hmt:pers.pers1"
                             ><w>αχιλλευ<unclear>ς</unclear></w></persName>
                         <persName n="urn:cite:hmt:pers.pers172"
@@ -397,7 +397,7 @@
                         <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName>
                         <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
                 </div>
-                <div n="iliad_23">
+                <div n="Iliad_23">
                     <ab><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> καυσις <choice>
                             <abbr><persName n="urn:cite:hmt:pers.pers158">πατροκλο</persName></abbr>
                             <expan><persName n="urn:cite:hmt:pers.pers158"
@@ -409,7 +409,7 @@
                             <expan>αγων</expan>
                         </choice></ab>
                 </div>
-                <div n="iliad_24">
+                <div n="Iliad_24">
                     <ab><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> και λυτρα <persName
                             n="urn:cite:hmt:pers.pers172"
                             ><w>εκτ<unclear>ορο</unclear>ς</w></persName>
@@ -419,7 +419,7 @@
                 </div>
 
             </div>
-            <div n="aethiopis">
+            <div n="Aethiopis">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers331"><w><damage/>εσιλεια</w></persName>
                     <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName>
                 </ab>
@@ -443,7 +443,7 @@
                     <persName n="urn:cite:hmt:pers.pers19">θε</persName></ab>
                 <ab n="7"><persName n="urn:cite:hmt:pers.pers127">αιας</persName> μ<unclear/>ης</ab>
             </div>
-            <div n="iliasparva">
+            <div n="Iliasparva">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers249">ευρυπυλος</persName>
                     <persName n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName>
                 </ab>
@@ -457,7 +457,7 @@
                 <ab n="6"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName> σκαια
                     πυλη</ab>
             </div>
-            <div n="iliupersis">
+            <div n="Iliupersis">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers172"
                         ><w>α<unclear>ια</unclear></w></persName> δουρηος ιππος</ab>
                 <ab n="2"><w>ιερο<damage/></w>
