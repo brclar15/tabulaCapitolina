@@ -6,7 +6,7 @@
 
 - [Various Catalogues of Data and Photography](catalogues.md)
 
-- [Diplomatic Digital Edition](digitalEditing.md)
+- [Digitally Editing the Tabula](digitalEditing.md)
 
 - [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
 
