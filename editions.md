@@ -1,4 +1,5 @@
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### [Back to Digital Editing page](digitalEditing.md)
 
 # Diplomatic Digital Editions
 
@@ -26,3 +27,4 @@ One of the many benefits of a digital edition is that the readers are not restri
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### [Back to Digital Editing page](digitalEditing.md)
