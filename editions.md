@@ -16,17 +16,7 @@ One of the many benefits of a digital edition is that the readers are not restri
   - This view presents the *Iliad* portions of the stone first, and then proceedes down the stone
 - [Bottom up view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/editions/bottomUp.html)
   - This view starts at the bottom of the stone and proceedes up, moving from left to right
-
-
-
-
-
-
-
-
-
-
-
+  - for readability, the stele is still shown top down
 
 
 
