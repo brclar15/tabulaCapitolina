@@ -8,11 +8,11 @@ One of the many benefits of a digital edition is that the readers are not restri
 ## List of Different Views
 
 
-- [Narrative Chronology view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/tabulaEdition.hmtl)
+- [Narrative Chronology view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/editions/tabCaptFinal.html)
   - This view starts with the preface and the table of contents, and then follows the narrative sequence through the various epics
 - [Top down view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/tabulaEdition.hmtl)
   - This view starts at the top of the stone and proceedes down, moving from left to right
-- [Iliad-focused view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/tabulaEdition.hmtl)
+- [Iliad-focused view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/editions/iliadFocused.html)
   - This view presents the *Iliad* portions of the stone first, and then proceedes down the stone
 - [Bottom up view](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/tabulaEdition.hmtl)
   - This view starts at the bottom of the stone and proceedes up, moving from left to right
