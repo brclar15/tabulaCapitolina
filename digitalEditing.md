@@ -1,7 +1,7 @@
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
 
 
-# Diplomatic Digital Edition of the Tabula Capitolina
+# Digitally Editing the Tabula Capitolina
 
 - [Editorial Practices](editPractices.md)
   - an explanation of my editing practices
