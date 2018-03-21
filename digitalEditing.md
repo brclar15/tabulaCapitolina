@@ -3,9 +3,8 @@
 
 # Diplomatic Digital Edition of the Tabula Capitolina
 
-- [Digital Edition](http://htmlpreview.github.io/?https://github.com/brclar15/tabulaCapitolina/blob/master/tabulaEdition.hmtl)
-  - a readable view of my edition of the texts on the Tabula Capitolina
-  - unclear letters are in red, supplied letters are in blue
+- [Digital Edition](editions.md)
+  - a collection of views of my edition of the texts on the Tabula Capitolina
 - [XML file](tabulaCapt.xml)
   - the raw xml of my digital edition
 - [Editorial Practices](editPractices.md)
