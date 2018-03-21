@@ -333,7 +333,8 @@
                         <persName n="urn:cite:hmt:pers.pers8"><unclear>ζευ</unclear></persName></ab>
                 </div>
                 <div n="Iliad_13">
-                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:13">Ν</rs><persName n="urn:cite:hmt:pers.pers503">ασιος</persName></ab>
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:13">Ν</rs> 
+                        <persName n="urn:cite:hmt:pers.pers503">ασιος</persName></ab>
                 </div>
                 <div n="Iliad_14">
                     <ab><persName n="urn:cite:hmt:pers.pers510">αρχελοχος</persName>
