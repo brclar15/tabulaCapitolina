@@ -9,8 +9,6 @@
 - [Timeline of the textual retelling on the stone](tabTextTL.md)
   - the prose summary of books 7 through 24 of the *Iliad* inscribed on the stele
 
-- [Timeline of the corresponding books of the *Iliad*](iliadTL.md)
-  - taken from the *Iliad*
 
 
 
