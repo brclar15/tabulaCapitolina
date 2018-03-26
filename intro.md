@@ -10,7 +10,8 @@ The Tabulae Iliacae are a group [twenty-two stone tablets](https://github.com/br
 
 	[2] : Squire 2011, 32
 
-	[3] : for the oddities of the historical ones, see Squire 2011 pg 49 for its possible connection to Julio-Claudian ideology that fits with the Aeneas bit in the Tab Cap
+	[3] : for the oddities of the historical Tabula, see Squire 2011, 49 for its
+	possible connection to Julio-Claudian ideology 
 
 	[4] : See Petrain 2
 
@@ -55,7 +56,8 @@ Thanks to both Squire and Pertain, the Tabulae have recently been seen in differ
 
 	[10] : Pertain 11
 
-	[11] : Squire 2011, 30 notes that these are of superior size and quality compared to VM's in 46 plates in 2004
+	[11] : Squire 2011, 30 notes that these are of superior size and quality 
+	compared to VM's in 46 plates in 2004
 
 	[12] : Petrain 11-12
 
