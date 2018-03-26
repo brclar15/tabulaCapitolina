@@ -27,9 +27,10 @@ The episode where [Thetis supplicates Zeus](http://www.homermultitext.org/ict2/?
 	in the band for book 1 as well. Given the fact that the preface is missing its first three words,
 	and that there would have needed to be space for the first inscribed stele, 
 	there is no doubt that at least one addition scene was found in book 1. The question 
-	that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*]  
+	that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*  
 
-	[3] : see Proclus' summaries of the Epic Cycle, found in the Venetus A and Upsilon 1.1 manuscripts of the *Iliad*
+	[3] : see Proclus' summaries of the Epic Cycle, found in the Venetus A and Upsilon 1.1 
+	manuscripts of the *Iliad*
 
 	[4] : Squire 135
 
