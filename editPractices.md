@@ -16,9 +16,9 @@ A further drawback of the various print editions of the Tabula is that they are 
 
 While it was helpful to this project, my edition is also an improvement upon the edition done for the [Inscriptiones Graecae](http://epigraphy.packhum.org/text/141269?&bookid=26&location=8) because of these practices. While the online edition of the IG does let the reader toggle supplied characters on and off, it is not a diplomatic edition[^2]. Further, it is not linked in any way to photography of the stone, causing the reader to rely entirely on the editor. With my edition, readers are free to compare my edition directly to the photography of the stone, and as a result, are free to agree or disagree with my readings and my markup. 
 
-	[1] : See Petrain's Chapter 1, and the notably thematically relevant discussion of the Temple of Juno 
-	in *Aeneid* 1 and Squire 2011 Chapter 5 for a discussion of the "magic squares"
-	on the obverse of several Tabulae
+	[1] : See Petrain's Chapter 1, and the notably thematically relevant discussion 
+	of the Temple of Juno in *Aeneid* 1 and Squire 2011 Chapter 5 for a discussion 
+	of the "magic squares" on the obverse of several Tabulae
 
 	[2] : The presence of all of the book letters for the pictorial bands 
 	of *Iliad* 13 through 24 reveal that the IG supplied more than they claim 
