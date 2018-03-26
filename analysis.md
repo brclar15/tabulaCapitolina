@@ -146,7 +146,8 @@ The death of Patroclus is one of the core deaths that must occur within the narr
 
 	[9] : *Iliad* 2.695-2.710
 
-	[10] : *Iliad* 15.705, and it is from his ship that Patroclus strikes down his first foe (*Iliad* 16.286)
+	[10] : *Iliad* 15.705, and it is from his ship that Patroclus 
+	strikes down his first foe (*Iliad* 16.286)
 
 	[11] : Lowenstam 175
 
