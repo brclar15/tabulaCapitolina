@@ -1,5 +1,6 @@
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Analysis Overview](analysisPage.md)
 
 # Analysis of Retellings of the Tabula Capitolina compared to the *Iliad*
 
@@ -256,3 +257,5 @@ The prose summary relates that Priam comes to ransom Hector from Achilles, and t
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Analysis Overview](analysisPage.md)
+
