@@ -4,7 +4,7 @@
 # A Collection of the Tabulae Iliacae
 
 
-## Compiled from Squire and Pertain, and augemented with images from Sadurska when possible. 
+## Compiled from Squire and Pertain, and augmented with images from Sadurska when possible. 
 
 
 

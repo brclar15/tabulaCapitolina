@@ -9,7 +9,7 @@
 - Davies, Malcom. The Epic Cycle (Bristol Classical Press 1989)
 - Dickey, Eleanor. Ancient Greek Scholarship (Oxford University Press 2007)
 - Gantz, Timothy. Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
-- GiulianiLuca, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
+- GiulianiLuca, Image and myth: a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348
 - Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
 - Lowenstam, Steven. The Uses of Vase-Depictions in Homeric Studies (Transactions of the American Philological Association Vol. 122 (1992), pp. 165-198)

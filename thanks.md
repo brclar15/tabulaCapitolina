@@ -6,7 +6,7 @@ This project comes out of and is complementary to my undergraduate thesis, where
 
 The open access photography from which I created my edition was taken by Rebecca Finnigan and Nikolas Churik during their Spring 2014 study abroad term in Rome. Without their help and effort, I would not have been able to produce my own edition nor would I have been able to engage with the original artifact as much as I have. Additionally, Drew Virtue digitally altered a number of these photographs, in order to make the texts clearer. This greatly increased the usability of the images and even more greatly decreased my stress level during the transcription process. 
 
-For my XSLT transformation, I want to thank Alex May  who enthusiastically and patiently taught me how to make my edition presentable and usable. 
+For my XSLT transformation, I want to thank Alex May who enthusiastically and patiently taught me how to make my edition presentable and readable. 
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)

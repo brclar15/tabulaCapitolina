@@ -6,7 +6,7 @@
 ## Rights Statement 
 
 
-Photogaphy by Nikolas Churik and Rebecca Finnigan. Licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
+Photography by Nikolas Churik and Rebecca Finnigan. Licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
 
 ----------
 
