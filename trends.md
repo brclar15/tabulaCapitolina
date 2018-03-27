@@ -1,10 +1,15 @@
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Analysis Overview](analysisPage.md)
 
 
 # General Trends of the Retellings on the Tabula Capitolina
 
-**drop in general trends file here**
+
+
+
+
 
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
+#### Back to [Analysis Overview](analysisPage.md)
