@@ -4,7 +4,7 @@
 
 # Site Map 
 
-- [Home Page[(https://brclar15.github.io/tabulaCapitolina/)
+- [Home Page](https://brclar15.github.io/tabulaCapitolina/)
   - [Tabula Capitolina Overview](intro.md)
 
   - [Various Catalogues of Data and Photography](catalogues.md)
