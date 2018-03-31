@@ -12,7 +12,7 @@
 
 - [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
 
-- [Site Map](siteMap.md)
+
 
 
 ---------
@@ -30,3 +30,10 @@ I owe a great deal of [thanks](thanks.md) to several people for help with variou
 This project will be presented as a DH project to complete my ["Digital Tools for Premodern Studies"](http://ase.tufts.edu/classics/graduate/digitalTools.htm) Masters degree at Tufts University. 
 
 Follow this link to the [bibliography](bibliography.md), from which the footnotes in each section are drawn.
+
+
+
+
+## [Site Map](siteMap.md)
+
+For ease of navigation, I have provided an outline of the website. 
