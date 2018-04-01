@@ -8,7 +8,7 @@
 
 - [Digitally Editing the Tabula](digitalEditing.md)
 
-- [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
+- [Timelines of the Retellings](timeLinePage.md)
 
 - [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
 

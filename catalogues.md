@@ -1,7 +1,7 @@
 ##### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
 
 
-# Various Catalogues 
+# Various Catalogues of Data
 
 ## Photography
 
@@ -9,7 +9,7 @@
 
 ## Data
 
-- [Collection of the Tabulae Iliacae](tabulae.md)
+- [Collection data on the Tabulae Iliacae](tabulae.md)
   - [the same data in a `.csv` file](tabulae.csv)
 
 

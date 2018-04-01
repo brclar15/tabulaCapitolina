@@ -8,5 +8,7 @@ The open access photography from which I created my edition was taken by Rebecca
 
 For my XSLT transformation, I want to thank Alex May who enthusiastically and patiently taught me how to make my edition presentable and readable. 
 
+Lastly, I want to take the time to acknowledge my committee members, Professor Gregory Crane and Alex May, for the time and support. I would especially like to thank my advisor for this project, Professor Marie-Claire Beaulieu, who worked with me on this project as a course project and then as a larger Masters project. Her thorough and insightful feedback was invaluable throughout this project. 
+
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
