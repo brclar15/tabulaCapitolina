@@ -29,6 +29,8 @@
 
   - [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
     - [Commentary of the rellings](analysis.md)
+    - [Conclusion and Trends](trends.md)
+
 
   
   - [Site Map](siteMap.md)
