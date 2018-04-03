@@ -12,7 +12,7 @@ The textual retelling is a continuous prose narrative without book divisions. It
 
 At times, the textual retelling is highly specific, which reveals certain essential elements of a retelling of the *Iliad*. Odysseus, Phoenix, and Ajax are all named in the embassy to Achilles, Dolon and Rhesus are killed during the night raid, and the Greek chiefs, all of whom are named, are injured and removed from the battlefield. In a highly compressed retelling such as this, the inclusion of these details shows their importance to the epic. They cannot be compressed out to save space, but rather are meaningful aspects that help make these episodes recognizable to an ancient audience. 
 
-The visual retelling 
+The visual retelling is divided into Iliadic books, and is often accompanied with labels to identify various figures. 
 
 - not meant to mirror the literature
 - certain figures stand for wider forces
