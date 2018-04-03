@@ -18,6 +18,7 @@ The visual retelling is divided into Iliadic books, and is often accompanied wit
 - certain figures stand for wider forces
 - does not show the gods in heaven
 - shows only what precipitates action
+- MAKE SURE TO INCLUDE THE FACT THAT THE ARMS ARE MADE ELSEWHERE, BUT INCLUDED
 
 
 
