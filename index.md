@@ -43,7 +43,4 @@ This project is one of two DH project to complete my ["Digital Tools for Premode
 This [bibliography](bibliography.md) contains references for the study of the Tabula Capitolina and my analysis of the retellings. 
 
 
-
-## [Site Map](siteMap.md)
-
-For ease of navigation, I have provided an outline of the website [here](siteMap.md). 
+For ease of navigation, I have provided a [site map](siteMap.md) of the website. 
