@@ -6,16 +6,15 @@
 
 The Tabulae Iliacae are a group of [twenty-two stone tablets](https://github.com/brclar15/tabulaCapitolina/blob/master/tabulae.md)[^1] that are given this name due to the images which they bear. Beger first used this name in 1699, and the name continues to be used today. While the initial impulse may be to associate these stones exclusively with the *Iliad*, Squire notes that "the adjective *Iliaca* at once suggests the *Iliad* while outwardly referring simply to anything 'Trojan[^2].' Still, although the majority of these stones depict scenes from the Trojan Epic Cycle, six of them focus on either Heracles, Alexander the Great[^3], or other scenes. However, due to their similar size, design, and supposed function, they are still considered part of the Tabulae Iliacae[^4]. The most striking aspects that suggest that these stones are part of the same category are the presence of carved low-raised relief figure accompanied by Greek inscriptions found on all of them, as well as similar inscriptions on the reverse, seven of which are in the so called "magic square" formation[^5]. Following the tradition of numerous scholars, I have maintained the contentious title of these objects for ease of reference. 
 
-	[1] : It must be noted that the 23rd tabula is counted as spurious, see Squire 2011 appendix 413-416
+> [1] : It must be noted that the 23rd tabula is counted as spurious, see Squire 2011 appendix 413-416
 
-	[2] : Squire 2011, 32
+> [2] : Squire 2011, 32
 
-	[3] : for the oddities of the historical Tabula, see Squire 2011, 49 for its
-	possible connection to Julio-Claudian ideology 
+> [3] : for the oddities of the historical Tabula, see Squire 2011, 49 for its possible connection to Julio-Claudian ideology 
 
-	[4] : See Petrain 2
+> [4] : See Petrain 2
 
-	[5] : on the obverse of stones 11, 24, 4, 6 9
+> [5] : on the obverse of stones 11, 24, 4, 6 9
 
 
 ## Tabula Capitolina
@@ -32,11 +31,11 @@ If one accepts that these stones are all part of the same group, it becomes poss
 
 Another factor that aids in dating the Tabulae is the focus on Aeneas seen in the Tabula Capitolina. The Trojan hero and future founder of Rome appears four times through the pictorial retellings. The artist went to great length to highlight Aeneas, focusing on actions that are strongly tied to the *Aeneid* and the myth of the foundation of Rome. In rapid succession, he is seen receiving the *penates*, fleeing the burning citadel with Anchises on his back and Ascanius, and then boarding a ship with the [caption](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_1@0.177,0.8053,0.19,0.032) Αἰνήας σὺν τοῖς ἰδίοις ἀπαί<ρ>ων εἰς τὴν Ἑσπερίαν. Both Squire and Petrain note that not only the focus on Aeneas and the foundation myth, but also the artistic representation of Aeneas closely matches that of the Ara Pacis and the Forum of Augustus[^8]. With the forum being completed in 5 BCE, and the *Aeneid* being published in 19 BCE, one can confidently situate the Tabulae at the end of the reign of Augustus, or shortly after. 
 
-	[6] : Petrain 14, 20
+> [6] : Petrain 14, 20
 
-	[7] : For this same reason, 19J is noticeably later, in the second century. But should be seen as showing how popular these things were, Squire 2011 61
+> [7] : For this same reason, 19J is noticeably later, in the second century. But should be seen as showing how popular these things were, Squire 2011 61
 
-	[8] : Squire 2011, 59, Petrain 20
+> [8] : Squire 2011, 59, Petrain 20
 
 ## History of Their Scholarship and Their Function
 
@@ -58,18 +57,17 @@ My work continues the work of Squire and Pertain by treating the Tabulae as elit
 
 
 
-	[9] : [Squire 2011, 28]
+> [9] : [Squire 2011, 28]
 
-	[10] : Pertain 11
+> [10] : Pertain 11
 
-	[11] : Squire 2011, 30 notes that these are of superior size and quality 
-	compared to VM's in 46 plates in 2004
+> [11] : Squire 2011, 30 notes that these are of superior size and quality compared to VM's in 46 plates in 2004
 
-	[12] : Petrain 11-12
+> [12] : Petrain 11-12
 
-	[13] : Petrain 12
+> [13] : Petrain 12
 
-	[14] : Fantuzzi, 529
+> [14] : Fantuzzi, 529
 
 
 

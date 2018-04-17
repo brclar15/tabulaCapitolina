@@ -16,16 +16,12 @@ A further drawback of the various print editions of the Tabula is that they are 
 
 While it was helpful to this project, my edition is also an improvement upon the edition done for the [Inscriptiones Graecae](http://epigraphy.packhum.org/text/141269?&bookid=26&location=8) due to these practices. While the online edition of the IG does let the reader toggle supplied characters on and off, it is not a diplomatic edition[^3]. Further, it is not linked in any way to photography of the stone, causing the reader to rely entirely on the editor. With my edition, readers are free to compare my edition directly to the photography of the stone, and as a result, are free to agree or disagree with my readings and my markup. 
 
-	[1] : See Petrain's Chapter 1, and the notably thematically relevant discussion 
-	of the Temple of Juno in *Aeneid* 1 and Squire 2011 Chapter 5 for a discussion 
-	of the "magic squares" on the obverse of several Tabulae
+> [1] : See Petrain's Chapter 1, and the notably thematically relevant discussion of the Temple of Juno in *Aeneid* 1 and Squire 2011 Chapter 5 for a discussion 
+of the "magic squares" on the obverse of several Tabulae.
 	
-	[2] : I chose this order because it seemed logical to follow the events in the
-	order that they occurred in the sequence of epics. 
+> [2] : I chose this order because it seemed logical to follow the events in the order that they occurred in the sequence of epics. 
 
-	[3] : The presence of all of the book letters for the pictorial bands 
-	of *Iliad* 13 through 24 reveal that the IG supplied more than they claim 
-	to have added, since they are absent for books 14 and 20 through 24
+> [3] : The presence of all of the book letters for the pictorial bands of *Iliad* 13 through 24 reveal that the IG supplied more than they claim to have added, since they are absent for books 14 and 20 through 24.
 
 
 ## XML Editing
@@ -43,9 +39,9 @@ Then, I have placed the text of the stele with the prose summary of *Iliad* 7 th
 Last, I have placed the captions that accompany the carved figures. I divided these texts in two ways. First, they are separated by which epic the scenes on which they are commenting belong. I arranged these epics in their narrative sequence, starting with the *Iliad* and ending with the *Iliupersis*. Due to the way in which the Tabula is organized, the *Iliad* section is further broken into individual books. Second, there are individual anonymous blocks within each epic according to the episodic divisions within the images. These blocks can contain more than one caption, depending on the contents of the episode. By structuring my edition in this way, readers are more easily able to see the distinct episodes within the visual retelling. The `ab` tag is the ideal tag to help answer my research question because it allows me to show these distinct episode while simultaneously preserving the original layout of the text. 
 
 
-	[4] : See Petrain 50 for Mancuso's 1909 reconstruction of the text
+> [4] : See Petrain 50 for Mancuso's 1909 reconstruction of the text
 
-	[5] : Petrain 96
+> [5] : Petrain 96
 
 
 

@@ -86,7 +86,7 @@ It is difficult to assert the importance of these figures in the battle books, s
 [Asius' name](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.6131,0.8177,0.09896,0.02387) is inscribed above his figure, instead of below in the usual position of the captions. The only other instance of this is the [ασπις](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.3030,0.5152,0.07841,0.02344) in book 18. Jahn in his drawing misses Ainus' name, but includes the ασπις, while the IG includes Ainus's name (without mentioning its position) and overlooks the ασπις. 
 
 
-	[5] : Iliad 13.433
+> [5] : Iliad 13.433
 
 ## [Book 14](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.07523,0.6580,0.8701,0.1691)
 
@@ -102,8 +102,7 @@ However, Apollo does not figure in this book of the *Iliad* at all. Perhaps he i
 
 A notable omission in both of the Tabula's retellings is the episode of Hera and Zeus. This unique episode is what allows Poseidon, and later Apollo, to join the battle. Because of this causal link, as well as the Tabula's aversion to depicting events that do not take place at Troy, it is not surprising that the artist removes this episode. However, the singularity of this episode and its extended treatment in the poem itself does call the reason for its absence into question. 
 
-	[6] : Pertain writes that "[Ajax] advances on Poseidon," which seems 
-	to suggest that he views this scene as hostile
+ > [6] : Pertain writes that "[Ajax] advances on Poseidon," which seems to suggest that he views this scene as hostile
 
 ## [Book 15](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.1024,0.4813,0.8383,0.1964)
 
@@ -115,13 +114,7 @@ The depiction of the group of Trojans also sheds light on how these images retel
 
 In the *Iliad*, this book opens with Zeus' anger at Hera for her actions in book 14. As a result of this rage, he further allows the tide of battle to turn in the Trojans' favor. Yet, none of this is retained in either the textual or visual retelling. The reason for this is that the gods' plan only set this book in motion, and, as has been shown, the Tabula concerns itself more with outcomes, rather than plans that precipitate later actions. 
 
-	[7] : Squire 194 also views these figures as Ajax and Teucer without much difficulty. 
-	He goes on to note the "additional [indistinct shape](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.7873,0.5017,0.09751,0.07031) at the right end of the ship," 
-	but offers no explanation. This mass is absent from Jahn's drawing. Since the area in question
-	does not resemble a person, I propose that it should be taken as another prow of a Greek ship. 
-	This small addition would heighten the tension and remind the reader of the potential 
-	mass destruction due to the Trojan onslaught. However, the stone is too damaged 
-	to identify this was confidently.
+> [7] : Squire 194 also views these figures as Ajax and Teucer without much difficulty. He goes on to note the "additional [indistinct shape](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.7873,0.5017,0.09751,0.07031) at the right end of the ship," but offers no explanation. This mass is absent from Jahn's drawing. Since the area in question does not resemble a person, I propose that it should be taken as another prow of a Greek ship. This small addition would heighten the tension and remind the reader of the potential mass destruction due to the Trojan onslaught. However, the stone is too damaged to identify this was confidently.
 
 ## [Book 16](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.08015,0.3418,0.8631,0.1747)
 
@@ -138,15 +131,14 @@ The visual and textual retelling both show [Patroclus slaying Trojans](http://ww
 The death of Patroclus is one of the core deaths that must occur within the narrative bounds of the *Iliad*. Much like Hector, he cannot live beyond the scope of the poem. The textual retelling mentions Hector slaying Patroclus and taking his armor. However, this scene does not appear within Patroclus' episode in the carved images. The image band for book 16 ends with Patroclus routing the Trojan chariot. One might expect an image such as the one found in the center of the band for book 22, where Achilles is seen killing Hector. However, since Patroclus' body figures in every scene of the episode of book 17, the artist was able to omit showing the moment that Patroclus dies, or even the confrontation with Hector. The reader of the Tabula was interested in contemplating the *Iliad* as a complete, continuous poem. Even though the visual retelling is divided into separate books, it is meant to be read as a whole work. With Patroclus' body so central to the following band, it may have seemed redundant to have his body appear at the end of the band for book 16, as it does in the *Iliad*. As will be seen in the next book, the artist may have felt that the audience did not need the moment of Patroclus' death, since his corpse dominates book 17's pictorial retelling. 
 
 
-	[8] : for a discussion on the connection between the textual retelling and 
-	other sources, notably Apollodorus' *Bibliotheke*, see Rossum-Steenbeck
+> [8] : for a discussion on the connection between the textual retelling and other sources, notably Apollodorus' *Bibliotheke*, see Rossum-Steenbeck
 
-	[9] : *Iliad* 2.695-2.710
+> [9] : *Iliad* 2.695-2.710
 
-	[10] : *Iliad* 15.705, and it is from his ship that Patroclus 
+> [10] : *Iliad* 15.705, and it is from his ship that Patroclus 
 	strikes down his first foe (*Iliad* 16.286)
 
-	[11] : Lowenstam 175
+> [11] : Lowenstam 175
 
 ## [Book 17](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.09346,0.1973,0.8383,0.1810)
 
@@ -155,7 +147,7 @@ The death of Patroclus is one of the core deaths that must occur within the narr
 The retellings of 17 match the *Iliad* closely. The carved images show three different scenes where the [Greeks defend Patroclus' body](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.09954,0.1895,0.3730,0.1749), [drag it off](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.4008,0.2090,0.1759,0.1606), and then [load it onto a chariot](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_10@0.5420,0.2131,0.3825,0.1556). This expanded version of this episode reflects its lengthy treatment in the *Iliad*. The entirety of book 17 is dedicated to this episode of the fight for Patroclus body. As a result, the artist reflects that by extending the episode through the length of the band in a variety of scenes. However, this band lacks the typical labels found on the others. While it is possible that they have just faded, this is unlikely due to the visibility of so many others[^12]. Without these labels, it is impossible to assert which Greeks are shown defending their fallen comrade. In a certain sense, this is not essential information, as it does not change the outcome of the episode. It is due to the Greeks' devotion, named or unnamed, to Patroclus that the Trojans do not carry off the body. The textual retelling also does not provide any specific names, but rather solely states that there is a battle over the body. 
 
 
-	[12] : Petrain also notes that these labels are simply absent (Petrain 194)
+> [12] : Petrain also notes that these labels are simply absent (Petrain 194)
 
 
 
@@ -173,10 +165,9 @@ The prose summary and the visual retelling take opposite approaches to the grief
 
 Thetis acquiring the arms of Achilles is given in detail in both retellings. The carved images show Thetis, who is named, standing before the Cyclopes, who are unnamed, busy at work on the οπλοποια, while a labeled Hephaestus sits to the right. The amount of thought and knowledge that went into the production of the Tabula is evident from this depiction of Hephaestus. Since he is a cripple, he is seated, instead of standing like the Cyclopes are. This supports the idea of these Tabulae as highly learned objects meant for an elite, intelligent audience. On the stele, in addition to describing Thetis going to Hephaestus to ask for the armor, it mentions that Hephaestus "ο δ αυτη προθυμως ποιει." This detail of his willingness to help does not add much to the retelling (nor is it surprising when compared to the *Iliad*), but it does show the added detail given to this episode. 
 
-		[13] : The stone is heavily damaged at this point, line 78, with the IG reading a 
-	random series of letters and Petrain and I both leaving it as completely unclear
+> [13] : The stone is heavily damaged at this point, line 78, with the IG reading a random series of letters and Petrain and I both leaving it as completely unclear
 	
-	[14] : Pertrain 195
+> [14] : Pertrain 195
 
 
 ## [Book 19](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.05324,0.4944,0.8388,0.1814)
@@ -190,10 +181,9 @@ Both of these retellings match the *Iliad* closely for this episode. In the pict
 The next episode in the band for book 19 shows Achilles mounting his chariot in full armor. The prose summary does not go through the smaller steps of Achilles' arming process, but rather sends him straight into action. It shows a greater tendency to proceed directly to the action, rather than lay out the build-up. The prose summary does include the episode in which Achilles and Agamemnon reconcile[^16]. It says that Agamemnon gives Briseis back to Achilles, making the obvious choice to name her over the other gifts given to win his favor, since her removal sparked the initial conflict. It is curious that this scene does not appear in the visual retelling, since an assembly of the Greeks, such as the one in this episode, was already given in the band from book 1. As a result, this scene is likely not an essential episode to retelling the *Iliad*, since it is not included here to bridge the space between Achilles in his camp and returning to the battlefield. 
 
 
-	[15] : see Petrain 195, footnote 17, and compare it to the label for Asius in book 13. 
+> [15] : see Petrain 195, footnote 17, and compare it to the label for Asius in book 13. 
 
-	[16] : a discussion of how much of a reconciliation this act truly 
-	is not within the scope of this project
+> [16] : a discussion of how much of a reconciliation this act truly is not within the scope of this project
 
 ## [Book 20](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.06163,0.3748,0.8223,0.1413)
 
@@ -205,13 +195,11 @@ Comparison to the *Iliad* does not allow one to identify the other Trojans whom 
 
 The theories for the last pair of figures in this band are also speculative. It is clear from [Jahn's drawing](https://www.mediterranees.net/art_antique/oeuvres/iliaca/images/capitolina1.gif) that he thinks the figures are on the same side, since one appears to be helping the other up. It is unclear if he thinks they are both warriors, or if one is a god, given that the first is nude and the second is clothed but weaponless in his drawing. Petrain follows Valenzuela Montenegro by proposing that these figures are gods, and his read of the position is different from Jahn's[^19]. Given the Tabula's general inclination to avoid depicting gods, it seems out of place to read these last figures as deities spectating the action. Considering the role of the gods in book 20, if other gods were to be depicted, they would likely be a part of the action, as Poseidon is a few scenes earlier.  
 
-	[17] : Iliad 20.291
+> [17] : Iliad 20.291
 
-	[18] :  Petrain 196
+> [18] :  Petrain 196
 
-	[19] : Petrain writes that "a seated figure faces left. To the right, a standing 
-	figure in profile also faces left and raises an arm. Perhaps two gods 
-	surveying the battle." Petrain 196
+> [19] : Petrain writes that "a seated figure faces left. To the right, a standing figure in profile also faces left and raises an arm. Perhaps two gods surveying the battle." Petrain 196
 
 ## [Book 21](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.06742,0.2617,0.8166,0.1372)
 
@@ -223,7 +211,7 @@ The label of [Poseidon](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:cap
 
 The last episode of book 21 shows [Achilles pushing the Trojans to the gates](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.4821,0.2682,0.3843,0.1220) of the citadel. This is reflected in the visual retelling by Achilles chasing two figures, who are identified as Phrygians, towards the Trojan walls. This places Achilles in position to start the next episode, the death of Hector. The images on the tabula are meant to be read as a continuous narrative, which is why the initial image for book 22 already has Achilles and Hector engaged in the chase. As often happens, the last image on one band purposefully sets up the opening action of the next band. The textual retelling does not always set up its action in this way. Here, the prose summary jumps to the clash of Achilles and Hector, without giving the intermediary action. 
 
-	[20] : Petrain 196, footnote 19
+> [20] : Petrain 196, footnote 19
 
 ## [Book 22](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_9@0.08420,0.1226,0.7943,0.1643)
 
@@ -253,7 +241,7 @@ A close-reader of the *Iliad* will recall that Hermes does not enter the tent of
 The prose summary relates that Priam comes to ransom Hector from Achilles, and then upon returning to the city, the Trojans bury him and prepare his tomb. As is typical of this textual retelling, there is not a great deal of expansion, but the core elements are retained. The fact that the *Iliad* ends with the burial of Hector is reflected in the inclusion of this element in the retelling. This is explicitly stated on the inscribed stele in order to signal the close of the epic. However, an ancient audience would have been able to connect the fact that Priam's recovery of his son's body would lead directly to the burial of Hector. This is exactly the kind of connection that the pictorial retelling expects its reader to make, as it does not show the burial of Hector. Perhaps it is the textual nature that causes the prose summary to end in a way that so strongly echoes the end of the *Iliad* itself. The textual retelling makes sure to bring its retelling to the furthest point possible in the narrative, while the visual retelling allows the reader to fill in the context in order to close the poem. 
 
 
-	[21] : Squire, 2011, 144-145
+> [21] : Squire, 2011, 144-145
 
 
 #### Back to [Home](https://brclar15.github.io/tabulaCapitolina/)
