@@ -20,21 +20,14 @@ The figure of [Athena restrains Achilles](http://www.homermultitext.org/ict2/?ur
 The episode where [Thetis supplicates Zeus](http://www.homermultitext.org/ict2/?urn=urn:cite:hmt:capimgs.2017a:Capitoline_15@0.6107,0.02199,0.08876,0.1062) is a prime example of how highly compressed these episodes can be. The reader does not get the initial part of the episode, namely Achilles' plea to Thetis, but rather the outcome. Besides these two figures and their posture, no more information is needed in order for the audience to be able to recognize this episode. An ancient audience would have been able to read this scene, even without Thetis being labeled. Zeus is not labeled, but this is not a requirement for the scene to be recognizable, given his posture and connection to Thetis. The iconography of the scene serves to identify the episode, and the audience's knowledge of the poem fills out the remaining elements. The Tabula is a highly compressed retelling, and therefore cannot spell out the entire episode, but rather chooses evocative moments that call to mind the wider episode. 
 
 
-	[1] : this is supported by comparison with 3C and 6B
-
-	[2] : Squire 2011, 171 only briefly entertains this idea, but does not explain 
-	his quick decision to move on While Petrain does not explicitly propose this hypothesis,
-	he does suggest that there are episodes missing from the band dedicated to the
-	*Aethiopis* (Petrain 198) By extension, that would mean that there was more to be found
-	in the band for book 1 as well. Given the fact that the preface is missing its first three words,
-	and that there would have needed to be space for the first inscribed stele, 
-	there is no doubt that at least one addition scene was found in book 1. The question 
-	that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*  
-
-	[3] : see Proclus' summaries of the Epic Cycle, found in the Venetus A and Upsilon 1.1 
-	manuscripts of the *Iliad*
-
-	[4] : Squire 135
+> [1] : this is supported by comparison with 3C and 6B
+> 
+> [2] : Squire 2011, 171 only briefly entertains this idea, but does not explain his quick decision to move on While Petrain does not explicitly propose this hypothesis, he does suggest that there are episodes missing from the band dedicated to the *Aethiopis* (Petrain 198) By extension, that would mean that there was more to be found in the band for book 1 as well. Given the fact that the preface is missing its first three words, and that there would have needed to be space for the first inscribed stele, there is no doubt that at least one addition scene was found in book 1. The question that is unanswerable is, how many scenes, and were they all within the narrative bounds of the *Iliad*  
+> 
+> [3] : see Proclus' summaries of the Epic Cycle, found in the Vents A and Upsilon 1.1 
+> 	manuscripts of the *Iliad*
+> 
+> [4] : Squire 135
 
 
 ## Book 7
