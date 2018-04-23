@@ -5,7 +5,7 @@
 
 ## A comparison between the carved images, the prose summary, and the *Iliad*
 
-- [Commentary of the rellings](analysis.md) divided into Iliadic books
+- [Analysis of the rellings](analysis.md) divided into Iliadic books
 - [Conclusion and Trends](trends.md)
 
 
