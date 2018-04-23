@@ -8,6 +8,7 @@
 - Burgess, Jonathan S. The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
 - Davies, Malcom. The Epic Cycle (Bristol Classical Press 1989)
 - Dickey, Eleanor. Ancient Greek Scholarship (Oxford University Press 2007)
+- Fantuzzi, Marco. The Greek Epic Cycle and its ancient reception : A Companion (Cambridge Universtiy Press 2015) 
 - Gantz, Timothy. Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
 - GiulianiLuca, Image and myth: a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348
